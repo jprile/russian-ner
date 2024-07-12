@@ -1,1 +1,1 @@
-# russian-name-analysis
+# russian-ner

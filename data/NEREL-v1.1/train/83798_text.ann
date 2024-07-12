@@ -1,0 +1,12 @@
+T4	PERSON 97 113	Евгений Примаков
+T8	PERSON 308 322	Дмитрий Песков
+T10	PERSON 381 400	Евгения Максимовича
+T12	PERSON 450 465	Сергей Степашин
+T16	PERSON 608 622	Алексей Кудрин
+T18	PERSON 647 663	Евгений Примаков
+T21	PERSON 772 787	Сергей Нарышкин
+T24	PERSON 1126 1142	Евгений Примаков
+T44	PERSON 10 26	Евгений Примаков
+T45	PERSON 27 43	Евгений Примаков
+R37	ALTERNATIVE_NAME Arg1:T4 Arg2:T10	
+R40	ALTERNATIVE_NAME Arg1:T10 Arg2:T18	

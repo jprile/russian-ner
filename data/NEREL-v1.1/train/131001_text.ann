@@ -1,0 +1,11 @@
+T4	PERSON 53 78	Абу Абдул Барр аль-Амрики
+T9	PERSON 205 230	Абу Абдул Барр аль-Амрики
+T10	PERSON 232 256	Abu Abdul Barr al-Amriki
+T20	PERSON 469 482	Стивен Пэддок
+T25	PERSON 733 739	Пэддок
+T27	PERSON 772 793	Абу Бакра аль-Багдади
+T32	PERSON 1015 1026	аль-Багдади
+R5	ALTERNATIVE_NAME Arg1:T9 Arg2:T10	
+R10	ALTERNATIVE_NAME Arg1:T27 Arg2:T32	
+R13	ALTERNATIVE_NAME Arg1:T9 Arg2:T20	
+R16	ALTERNATIVE_NAME Arg1:T20 Arg2:T25	

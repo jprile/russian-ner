@@ -1,0 +1,8 @@
+T1	PERSON 12 21	Р.Мердока
+T5	PERSON 111 126	Руперта Мердока
+T6	PERSON 128 141	Джеймс Мердок
+T14	PERSON 421 430	Д.Мердока
+T18	PERSON 667 675	Д.Мердок
+R20	ALTERNATIVE_NAME Arg1:T6 Arg2:T14	
+T39	PERSON 0 21	Сын магната Р.Мердока
+R22	ALTERNATIVE_NAME Arg1:T6 Arg2:T39	

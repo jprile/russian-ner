@@ -1,0 +1,6 @@
+T4	PERSON 59 72	Жером Феррари
+T5	PERSON 73 86	Жером Ферарри
+T12	PERSON 226 239	Жером Ферарри
+T13	PERSON 241 255	Jérôme Ferrari
+T17	PERSON 457 477	Блаженным Августином
+R7	ALTERNATIVE_NAME Arg1:T12 Arg2:T13	

@@ -1,0 +1,16 @@
+T2	PERSON 23 38	Владимиру Этушу
+T4	PERSON 58 71	Владимир Этуш
+T6	PERSON 84 97	Владимир Этуш
+T8	PERSON 110 124	Владимир Путин
+T9	PERSON 127 140	Владимир Этуш
+T13	PERSON 228 243	Владимиру Этушу
+T17	PERSON 373 390	Надежды Птушкиной
+T19	PERSON 543 558	Владимиру Этушу
+T24	PERSON 783 787	Этуш
+T26	PERSON 802 817	Владимира Этуша
+T28	PERSON 845 859	Владимир Путин
+T31	PERSON 1318 1331	Владимир Этуш
+T43	PERSON 431 449	Евгения Вахтангова
+T48	PERSON 1470 1485	Иван Васильевич
+R28	ALTERNATIVE_NAME Arg1:T19 Arg2:T24	
+R36	ALTERNATIVE_NAME Arg1:T19 Arg2:T24	

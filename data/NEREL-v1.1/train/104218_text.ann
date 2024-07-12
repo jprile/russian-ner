@@ -1,0 +1,12 @@
+T1	PERSON 5 20	Фазиль Искандер
+T2	PERSON 22 37	Фазиль Искандер
+T7	PERSON 90 105	Фазиль Искандер
+T9	PERSON 131 139	Искандер
+T10	PERSON 216 231	Фазиль Искандер
+T35	PERSON 642 649	Геракла
+T20	PERSON 320 333	А.М. Горького
+T49	PERSON 615 619	Чика
+T55	PERSON 778 786	Сталиным
+T60	PERSON 755 764	Валтасара
+T61	PERSON 557 563	Сандро
+R30	ALTERNATIVE_NAME Arg1:T2 Arg2:T9	

@@ -1,0 +1,7 @@
+T2	PERSON 53 78	Хамад бин Халифа Аль Тани
+T3	PERSON 97 122	Хамад бен Халифа Аль Тани
+T7	PERSON 271 297	Тамима бен Хамада Аль Тани
+T17	PERSON 412 417	Хамад
+T24	PERSON 695 701	Тамима
+R14	ALTERNATIVE_NAME Arg1:T3 Arg2:T17	
+R18	ALTERNATIVE_NAME Arg1:T7 Arg2:T24	

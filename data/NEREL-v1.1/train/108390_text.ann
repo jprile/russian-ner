@@ -1,0 +1,13 @@
+T1	PERSON 5 21	Владимир Зельдин
+T3	PERSON 43 59	Владимир Зельдин
+T7	PERSON 131 147	Владимир Зельдин
+T10	PERSON 168 182	Склифосовского
+T15	PERSON 407 421	Склифосовского
+T16	PERSON 432 447	Иветта Зельдина
+T18	PERSON 510 518	Зельдина
+T19	PERSON 586 602	Владимир Зельдин
+T29	PERSON 799 815	Владимир Зельдин
+T39	PERSON 975 991	Владимир Зельдин
+T58	PERSON 1335 1339	Ваня
+R31	ALTERNATIVE_NAME Arg1:T7 Arg2:T18	
+R39	ALTERNATIVE_NAME Arg1:T18 Arg2:T19	

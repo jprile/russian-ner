@@ -1,0 +1,6 @@
+T2	PERSON 7 19	Тайсон Фьюри
+T3	PERSON 53 65	Тайсон Фьюри
+T7	PERSON 124 136	Тайсон Фьюри
+T12	PERSON 375 380	Фьюри
+T15	PERSON 549 554	Фьюри
+R9	ALTERNATIVE_NAME Arg1:T7 Arg2:T12	

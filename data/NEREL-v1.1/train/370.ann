@@ -1,0 +1,11 @@
+T2	PERSON 0 10	Д.Медведев
+T29	PERSON 68 84	Дмитрий Медведев
+T34	PERSON 277 293	Сергей Разыграев
+T35	PERSON 428 439	С.Разыграев
+T40	PERSON 878 886	Г.Жукова
+T41	PERSON 905 922	Хаджибикар Укуров
+T43	PERSON 995 1009	Леонид Мельник
+T44	PERSON 1033 1048	Николай Смарщек
+R18	ALTERNATIVE_NAME Arg1:T34 Arg2:T35	
+T54	PERSON 790 806	Валерий Конуркин
+R49	ALTERNATIVE_NAME Arg1:T2 Arg2:T29	

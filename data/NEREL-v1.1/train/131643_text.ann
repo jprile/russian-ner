@@ -1,0 +1,20 @@
+T2	PERSON 41 60	Вадима Ампелонского
+T3	PERSON 86 103	Вадим Ампелонский
+T14	PERSON 573 592	Вадима Ампелонского
+T16	PERSON 634 648	Бориса Едидина
+T18	PERSON 670 693	Александра Весельчакова
+T27	PERSON 1142 1154	Ампелонского
+T28	PERSON 1157 1164	Едидина
+T29	PERSON 1175 1187	Весельчакова
+T30	PERSON 1269 1280	Ампелонский
+T31	PERSON 1283 1289	Едидин
+T32	PERSON 1328 1339	Весельчаков
+T34	PERSON 1503 1518	Александр Жаров
+T36	PERSON 1671 1688	Вадим Ампелонский
+T37	PERSON 1790 1801	Ампелонский
+T38	PERSON 1804 1815	Весельчаков
+T44	PERSON 2018 2024	Едидин
+T68	PERSON 192 211	Вадима Ампелонского
+R47	ALTERNATIVE_NAME Arg1:T36 Arg2:T37	
+R48	ALTERNATIVE_NAME Arg1:T16 Arg2:T28	
+R49	ALTERNATIVE_NAME Arg1:T18 Arg2:T29	

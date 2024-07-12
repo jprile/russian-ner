@@ -1,0 +1,10 @@
+T5	PERSON 259 273	Роберт Эдвардс
+T7	PERSON 438 454	Роберта Эдвардса
+T9	PERSON 570 577	Эдвардс
+T15	PERSON 917 935	Робертом Эдвардсом
+T28	PERSON 748 755	Эдвардс
+T31	PERSON 1154 1162	Эдвардса
+R4	ALTERNATIVE_NAME Arg1:T7 Arg2:T9	
+R12	ALTERNATIVE_NAME Arg1:T28 Arg2:T15	
+T36	PERSON 18 29	Нобелевской
+T38	PERSON 174 185	Нобелевской

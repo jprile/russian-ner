@@ -1,0 +1,21 @@
+T5	PERSON 215 228	Николай Лямов
+T12	PERSON 387 405	Александр Горбенко
+T19	PERSON 701 717	Анастасия Ракова
+T26	PERSON 979 990	С. Собянина
+T27	PERSON 1107 1121	Артём Ермолаев
+T30	PERSON 1227 1240	Михаил Алешин
+T35	PERSON 1357 1369	Егор Поляков
+T37	PERSON 1506 1516	Сергей Цой
+T39	PERSON 1530 1549	Алексей Александров
+T42	PERSON 1593 1611	Андрей Сельцовский
+T44	PERSON 1616 1626	С. Собянин
+T46	PERSON 1645 1659	А. Александров
+T49	PERSON 1754 1768	А. Сельцовский
+T52	PERSON 1840 1846	С. Цоя
+T53	PERSON 2005 2017	Юрия Лужкова
+T57	PERSON 293 308	Сергея Собянина
+T65	PERSON 1465 1475	лужковской
+T70	PERSON 653 668	Сергея Собянина
+R3	ALTERNATIVE_NAME Arg1:T70 Arg2:T26	
+R48	ALTERNATIVE_NAME Arg1:T65 Arg2:T53	
+R49	ALTERNATIVE_NAME Arg1:T39 Arg2:T46	

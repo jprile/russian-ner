@@ -1,0 +1,13 @@
+T5	PERSON 143 166	Екатерина Сакелларопулу
+T8	PERSON 208 231	Екатерина Сакелларопулу
+T12	PERSON 438 453	Костас Тассулас
+T16	PERSON 558 581	Екатерина Сакелларопулу
+T18	PERSON 630 638	Тассулас
+T22	PERSON 738 746	Тассулас
+T23	PERSON 760 768	Катерина
+T25	PERSON 834 855	Прокописа Павлопулоса
+T33	PERSON 1162 1180	Кириакос Мицотакис
+T41	PERSON 346 359	Сакелларопулу
+R23	ALTERNATIVE_NAME Arg1:T8 Arg2:T41	
+R28	ALTERNATIVE_NAME Arg1:T12 Arg2:T18	
+R33	ALTERNATIVE_NAME Arg1:T16 Arg2:T23	

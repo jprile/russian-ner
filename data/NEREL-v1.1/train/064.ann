@@ -1,0 +1,12 @@
+T5	PERSON 106 123	Владимир Болдырев
+T8	PERSON 258 267	Болдырева
+T21	PERSON 793 801	Болдырев
+T22	PERSON 804 813	Макаровым
+T30	PERSON 1035 1054	Александр Постников
+T33	PERSON 1113 1129	Александр Галкин
+T38	PERSON 476 491	Сергея Макарова
+T39	PERSON 540 548	Макарова
+T42	PERSON 765 781	Анатолия Хрулева
+T45	PERSON 1077 1087	Постникова
+R31	ALTERNATIVE_NAME Arg1:T5 Arg2:T8	
+R37	ALTERNATIVE_NAME Arg1:T38 Arg2:T39	

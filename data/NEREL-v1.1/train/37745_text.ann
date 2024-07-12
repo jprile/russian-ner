@@ -1,0 +1,24 @@
+T1	PERSON 10 26	Алишера Усманова
+T8	PERSON 170 186	Алишера Усманова
+T10	PERSON 197 210	Бабур Усманов
+T17	PERSON 585 598	Бабур Усманов
+T18	PERSON 639 666	Юлдашева Кристина Камиловна
+T19	PERSON 692 697	Бабур
+T20	PERSON 723 736	Бабур Усманов
+T23	PERSON 831 845	Алишер Усманов
+T26	PERSON 901 914	Бабур Усманов
+T30	PERSON 980 997	Шавката Мирзиеева
+T32	PERSON 1064 1069	Бабур
+T37	PERSON 1191 1204	Бабур Усманов
+T40	PERSON 1280 1296	Алишера Усманова
+T41	PERSON 1338 1349	Антон Винер
+T43	PERSON 1432 1443	Ирины Винер
+T47	PERSON 1803 1819	Алишера Усманова
+T56	PERSON 2111 2119	Усманова
+T60	PERSON 2224 2231	Усманов
+T83	PERSON 1359 1367	Усманова
+T89	PERSON 1455 1469	Алишер Усманов
+T99	PERSON 419 424	Навои
+R24	ALTERNATIVE_NAME Arg1:T17 Arg2:T19	
+R41	ALTERNATIVE_NAME Arg1:T47 Arg2:T56	
+R57	ALTERNATIVE_NAME Arg1:T26 Arg2:T32	

@@ -1,0 +1,3 @@
+T2	PERSON 129 138	Лаурентий
+T8	PERSON 427 438	Лаурентий Д
+R9	ALTERNATIVE_NAME Arg1:T2 Arg2:T8	

@@ -1,0 +1,10 @@
+T1	PERSON 0 18	Джордж Буш-старший
+T2	PERSON 32 56	Джордж Герберт Уокер Буш
+T4	PERSON 79 97	Джордж Буш-старший
+T7	PERSON 165 168	Буш
+T12	PERSON 463 481	Джордж Буш-старший
+T20	PERSON 713 731	Джордж Буш-младший
+T46	PERSON 602 618	Рональда Рейгана
+R1	ALTERNATIVE_NAME Arg1:T1 Arg2:T2	
+R6	ALTERNATIVE_NAME Arg1:T4 Arg2:T7	
+T9	PERSON 383 388	Бушей

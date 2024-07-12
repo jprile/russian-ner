@@ -1,0 +1,29 @@
+T1	PERSON 0 17	Евгения Медведева
+T2	PERSON 26 36	Тутберидзе
+T4	PERSON 70 87	Евгения Медведева
+T7	PERSON 176 193	Евгения Медведева
+T12	PERSON 378 387	Медведева
+T15	PERSON 454 467	Арман Бабасян
+T17	PERSON 484 500	Этери Тутберидзе
+T19	PERSON 560 574	Брайана Орсера
+T25	PERSON 762 774	Ренат Лайшев
+T26	PERSON 819 828	Медведева
+T28	PERSON 865 881	Этери Тутберидзе
+T36	PERSON 1311 1327	Этери Тутберидзе
+T39	PERSON 1576 1590	Полина Цурская
+T40	PERSON 1632 1650	Александра Трусова
+T41	PERSON 1683 1693	Тутберидзе
+T42	PERSON 1724 1734	Медведевой
+T44	PERSON 1772 1780	Загитова
+T45	PERSON 1801 1810	Медведева
+T46	PERSON 1910 1927	Алексеем Ягудиным
+T49	PERSON 1987 1999	Брайан Орсер
+T50	PERSON 2001 2012	Brian Orser
+T56	PERSON 2164 2169	Орсер
+T79	PERSON 1031 1041	Медведевой
+T86	PERSON 1488 1502	Алина Загитова
+R10	ALTERNATIVE_NAME Arg1:T7 Arg2:T12	
+R20	ALTERNATIVE_NAME Arg1:T49 Arg2:T50	
+R23	ALTERNATIVE_NAME Arg1:T49 Arg2:T56	
+R33	ALTERNATIVE_NAME Arg1:T36 Arg2:T41	
+R38	ALTERNATIVE_NAME Arg1:T86 Arg2:T44	

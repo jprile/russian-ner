@@ -1,0 +1,10 @@
+T10	PERSON 192 206	Мишель Бачелет
+T12	PERSON 276 283	Бачелет
+T15	PERSON 361 379	Себастьяна Пиньера
+T17	PERSON 403 432	Вероника Мишель Бачелет Хериа
+T20	PERSON 467 481	Мишель Бачелет
+T24	PERSON 634 648	Мишель Бачелет
+T41	PERSON 551 559	Пиночета
+T42	PERSON 581 589	Пиночета
+R14	ALTERNATIVE_NAME Arg1:T10 Arg2:T12	
+R15	ALTERNATIVE_NAME Arg1:T12 Arg2:T17	

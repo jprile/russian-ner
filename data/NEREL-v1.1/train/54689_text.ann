@@ -1,0 +1,9 @@
+T2	PERSON 17 31	Дональд Синден
+T4	PERSON 57 71	Дональд Синден
+T6	PERSON 93 107	Дональд Синден
+T7	PERSON 117 130	Donald Sinden
+T11	PERSON 274 288	Дональд Синден
+T14	PERSON 491 501	Короля Лир
+T17	PERSON 594 608	Дональд Синден
+R5	ALTERNATIVE_NAME Arg1:T6 Arg2:T7	
+T22	PERSON 454 468	шекспировского

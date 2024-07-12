@@ -1,0 +1,5 @@
+T1	PERSON 0 5	Путин
+T11	PERSON 186 204	Владимиром Путиным
+T21	PERSON 950 965	Герман Клименко
+T24	PERSON 1168 1176	Клименко
+R13	ALTERNATIVE_NAME Arg1:T21 Arg2:T24	

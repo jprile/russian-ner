@@ -1,0 +1,9 @@
+T2	PERSON 24 41	Анатолий Перминов
+T5	PERSON 85 102	Анатолий Перминов
+T9	PERSON 247 264	Владимир Поповкин
+T11	PERSON 341 349	Перминов
+T21	PERSON 828 841	Сергей Иванов
+T23	PERSON 915 924	Перминову
+T32	PERSON 467 476	Перминова
+T33	PERSON 654 662	Перминов
+R26	ALTERNATIVE_NAME Arg1:T9 Arg2:T11	

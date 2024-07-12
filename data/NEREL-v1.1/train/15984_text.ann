@@ -1,0 +1,11 @@
+T1	PERSON 0 14	Муамар Каддафи
+T4	PERSON 147 163	Абделем Маджидом
+T5	PERSON 165 179	Муамар Каддафи
+T13	PERSON 480 495	Муамара Каддафи
+T17	PERSON 739 754	Муамара Каддафи
+T28	PERSON 304 311	Каддафи
+T31	PERSON 619 626	Каддафи
+T33	PERSON 1017 1024	Каддафи
+T34	PERSON 1048 1055	Каддафи
+R7	ALTERNATIVE_NAME Arg1:T5 Arg2:T28	
+R15	ALTERNATIVE_NAME Arg1:T31 Arg2:T17	

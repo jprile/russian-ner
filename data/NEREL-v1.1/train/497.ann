@@ -1,0 +1,14 @@
+T4	PERSON 75 91	Игорь Конашенков
+T7	PERSON 168 187	Александр Шляхтуров
+T11	PERSON 332 342	Конашенков
+T12	PERSON 355 364	Шляхтуров
+T13	PERSON 492 502	Шляхтурова
+T23	PERSON 798 814	Дмитрий Медведев
+T25	PERSON 953 962	Шляхтуров
+T27	PERSON 1012 1030	Анатолия Сердюкова
+T33	PERSON 1275 1294	Александр Шляхтуров
+T40	PERSON 287 299	Игорь Сергун
+T41	PERSON 569 578	Шляхтуров
+R17	ALTERNATIVE_NAME Arg1:T4 Arg2:T11	
+R18	ALTERNATIVE_NAME Arg1:T7 Arg2:T12	
+R33	ALTERNATIVE_NAME Arg1:T25 Arg2:T33	

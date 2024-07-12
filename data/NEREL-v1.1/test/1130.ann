@@ -1,0 +1,6 @@
+T2	PERSON 17 28	Жолт Хорняк
+T6	PERSON 75 86	Жолт Хорняк
+T13	PERSON 305 311	Хорняк
+T15	PERSON 344 361	Владимира Пятенко
+T17	PERSON 397 403	Хорняк
+R27	ALTERNATIVE_NAME Arg1:T6 Arg2:T13	

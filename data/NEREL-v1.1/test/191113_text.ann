@@ -1,0 +1,11 @@
+T1	PERSON 0 16	Евгения Чудновец
+T2	PERSON 43 53	Oxxxymiron
+T3	PERSON 54 70	Евгения Чудновец
+T8	PERSON 196 212	Евгения Чудновец
+T10	PERSON 326 336	Oxxxymiron
+T20	PERSON 869 877	Чудновец
+T21	PERSON 887 897	Oxxxymiron
+T38	PERSON 91 101	Oxxxymiron
+T46	PERSON 617 633	Евгения Чудновец
+T52	PERSON 1792 1808	Евгения Чудновец
+R7	ALTERNATIVE_NAME Arg1:T8 Arg2:T20	

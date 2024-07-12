@@ -1,0 +1,14 @@
+T1	PERSON 10 25	Иван Дыховичный
+T5	PERSON 125 140	Иван Дыховичный
+T7	PERSON 206 223	Иван Владимирович
+T10	PERSON 271 281	Дыховичный
+T12	PERSON 377 393	Эльдара Рязанова
+T13	PERSON 400 419	Владимира Высоцкого
+T14	PERSON 461 467	Чехова
+T16	PERSON 510 521	Дыховичного
+T20	PERSON 802 822	Владимире Маяковском
+T21	PERSON 825 834	Лиле Брик
+T28	PERSON 340 346	Щукина
+T33	PERSON 601 611	Дыховичный
+R27	ALTERNATIVE_NAME Arg1:T5 Arg2:T7	
+R28	ALTERNATIVE_NAME Arg1:T7 Arg2:T10	

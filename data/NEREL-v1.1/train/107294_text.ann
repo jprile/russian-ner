@@ -1,0 +1,12 @@
+T4	PERSON 37 45	Гутерреш
+T5	PERSON 47 63	Антониу Гутерриш
+T13	PERSON 212 229	Антониу Гутерреша
+T19	PERSON 289 303	Виталий Чуркин
+T31	PERSON 687 696	Трюгве Ли
+T36	PERSON 795 805	Пан Ги Мун
+T39	PERSON 877 912	Антониу Мануэл ди Оливейра Гутерреш
+T42	PERSON 920 955	António Manuel de Oliveira Guterres
+R19	ALTERNATIVE_NAME Arg1:T39 Arg2:T42	
+R32	ALTERNATIVE_NAME Arg1:T4 Arg2:T5	
+R33	ALTERNATIVE_NAME Arg1:T13 Arg2:T39	
+R61	ALTERNATIVE_NAME Arg1:T5 Arg2:T13	

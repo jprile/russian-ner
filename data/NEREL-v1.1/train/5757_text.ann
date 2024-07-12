@@ -1,0 +1,7 @@
+T6	PERSON 179 197	Иоганна Вильгельма
+T8	PERSON 248 259	Яна Веллена
+T10	PERSON 318 327	Ян Веллен
+T17	PERSON 784 795	Яну Веллену
+T19	PERSON 912 932	Петера Пауля Рубенса
+R5	ALTERNATIVE_NAME Arg1:T6 Arg2:T8	
+R17	ALTERNATIVE_NAME Arg1:T6 Arg2:T10	

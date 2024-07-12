@@ -1,0 +1,7 @@
+T2	PERSON 18 35	Тауфаахау Тупу IV
+T6	PERSON 97 114	Тауфаахау Тупу IV
+T14	PERSON 561 577	Тауфаахау Тупу V
+T28	PERSON 226 243	Тауфаахау Тупу IV
+T31	PERSON 376 382	Тупута
+T32	PERSON 384 391	Tupouta
+R16	ALTERNATIVE_NAME Arg1:T31 Arg2:T32	

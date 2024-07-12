@@ -1,0 +1,5 @@
+T4	PERSON 62 78	Владимир Кулишов
+T27	PERSON 884 903	Владимира Проничева
+T32	PERSON 1093 1103	В.Кулишова
+T55	PERSON 673 682	В.Кулишов
+R23	ALTERNATIVE_NAME Arg1:T4 Arg2:T55	

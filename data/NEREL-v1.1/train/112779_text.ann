@@ -1,0 +1,8 @@
+T1	PERSON 0 12	Ким Чен Нама
+T5	PERSON 122 133	Ким Чен Нам
+T8	PERSON 153 164	Ким Чен Ына
+T14	PERSON 695 707	Ким Чен Нама
+T15	PERSON 757 768	Ким Чен Нам
+T19	PERSON 795 806	Ким Чен Ына
+T24	PERSON 986 998	Ким Чен Нама
+R29	ALTERNATIVE_NAME Arg1:T1 Arg2:T5	

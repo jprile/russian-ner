@@ -1,0 +1,13 @@
+T3	PERSON 24 42	Александр Соловьёв
+T4	PERSON 44 62	Александр Соловьёв
+T10	PERSON 135 153	Александр Соловьёв
+T12	PERSON 238 247	Соловьёва
+T16	PERSON 402 420	Александр Соловьёв
+T21	PERSON 579 588	Соловьёву
+T35	PERSON 1164 1173	Соловьёва
+T46	PERSON 1406 1424	Владимиром Путиным
+T63	PERSON 1980 1998	Александр Соловьёв
+R5	ALTERNATIVE_NAME Arg1:T16 Arg2:T21	
+R37	ALTERNATIVE_NAME Arg1:T10 Arg2:T12	
+T55	PERSON 1791 1823	Соловьева Александра Васильевича
+R46	ALTERNATIVE_NAME Arg1:T55 Arg2:T63	

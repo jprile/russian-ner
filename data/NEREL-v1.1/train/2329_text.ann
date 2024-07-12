@@ -1,0 +1,16 @@
+T17	PERSON 410 422	Наджиб Разак
+T18	PERSON 424 435	Najib Razak
+T20	PERSON 560 572	Наджиб Разак
+T21	PERSON 593 617	Мохаммед Фаиз Камалуддин
+T22	PERSON 619 643	Mohammed Faiz Kamaluddin
+T26	PERSON 695 722	С Ванаджах Сива Субраманиам
+T27	PERSON 724 750	S Vanajah Siva Subramaniam
+T30	PERSON 778 796	Шейх Музафар Шукор
+T31	PERSON 798 821	Sheikh Muszaphar Shukor
+T34	PERSON 838 848	Фаиз Халид
+T35	PERSON 850 862	Faiz Khaleed
+R4	ALTERNATIVE_NAME Arg1:T17 Arg2:T18	
+R7	ALTERNATIVE_NAME Arg1:T21 Arg2:T22	
+R11	ALTERNATIVE_NAME Arg1:T26 Arg2:T27	
+R14	ALTERNATIVE_NAME Arg1:T30 Arg2:T31	
+R17	ALTERNATIVE_NAME Arg1:T34 Arg2:T35	

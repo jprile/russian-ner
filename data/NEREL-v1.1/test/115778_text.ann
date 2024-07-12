@@ -1,0 +1,22 @@
+T2	PERSON 34 45	Эмма Морано
+T3	PERSON 47 58	Эмма Морано
+T6	PERSON 111 122	Эмма Морано
+T11	PERSON 212 222	Карло Бава
+T12	PERSON 225 236	Эмма Морано
+T18	PERSON 468 479	Эмма Морано
+T21	PERSON 579 585	Морано
+T24	PERSON 671 691	Сюзанны Мушатт Джонс
+T27	PERSON 776 789	Вайолет Браун
+T29	PERSON 823 849	Эмма Мартина Луиджа Морано
+T35	PERSON 936 951	Джованни Морано
+T36	PERSON 954 970	Матильды Брешани
+T37	PERSON 972 976	Эмма
+T42	PERSON 1168 1182	Анджела Морано
+T45	PERSON 1232 1236	Эмма
+T52	PERSON 1533 1552	Джованни Мартинуцци
+T57	PERSON 1687 1693	Морано
+T62	PERSON 1855 1873	Джорджо Наполитано
+T64	PERSON 1985 1989	Эмма
+R44	ALTERNATIVE_NAME Arg1:T18 Arg2:T21	
+R45	ALTERNATIVE_NAME Arg1:T21 Arg2:T29	
+R46	ALTERNATIVE_NAME Arg1:T29 Arg2:T37	

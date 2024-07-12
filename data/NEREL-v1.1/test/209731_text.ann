@@ -1,0 +1,5 @@
+T1	PERSON 0 7	Куинджи
+T8	PERSON 226 240	Архипа Куинджи
+T18	PERSON 741 755	Архипа Куинджи
+T26	PERSON 24 37	Архип Куинджи
+R1	ALTERNATIVE_NAME Arg1:T1 Arg2:T26	

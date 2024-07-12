@@ -1,0 +1,11 @@
+T1	PERSON 0 14	Максим Орешкин
+T3	PERSON 58 72	Максим Орешкин
+T8	PERSON 152 166	Максим Орешкин
+T11	PERSON 240 254	Владимир Путин
+T12	PERSON 265 273	Орешкина
+T14	PERSON 500 505	Путин
+T15	PERSON 515 535	Максим Станиславович
+T16	PERSON 684 698	Максим Орешкин
+T20	PERSON 758 765	Орешкин
+R15	ALTERNATIVE_NAME Arg1:T11 Arg2:T14	
+R16	ALTERNATIVE_NAME Arg1:T8 Arg2:T15	

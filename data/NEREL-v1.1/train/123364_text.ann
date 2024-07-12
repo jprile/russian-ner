@@ -1,0 +1,6 @@
+T3	PERSON 22 39	Василиса Старшова
+T8	PERSON 163 180	Василиса Старшова
+T13	PERSON 510 528	Флоридой Чантурией
+T15	PERSON 570 580	Алисы Вокс
+T35	PERSON 463 471	Старшова
+R13	ALTERNATIVE_NAME Arg1:T8 Arg2:T35	

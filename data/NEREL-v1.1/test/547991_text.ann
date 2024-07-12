@@ -1,0 +1,10 @@
+T2	PERSON 27 45	Дженезис Пи-Орридж
+T3	PERSON 46 64	Дженезис Пи-Орридж
+T5	PERSON 101 119	Дженезис Пи-Орридж
+T7	PERSON 250 259	Пи-Орридж
+T14	PERSON 456 472	Нил Эндрю Мэгсон
+T18	PERSON 535 553	Дженезис Пи-Орридж
+R9	ALTERNATIVE_NAME Arg1:T5 Arg2:T7	
+R18	ALTERNATIVE_NAME Arg1:T14 Arg2:T18	
+R23	ALTERNATIVE_NAME Arg1:T5 Arg2:T7	
+R24	ALTERNATIVE_NAME Arg1:T7 Arg2:T14	

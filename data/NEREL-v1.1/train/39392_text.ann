@@ -1,0 +1,14 @@
+T2	PERSON 41 49	Браудера
+T4	PERSON 72 86	Уильям Браудер
+T5	PERSON 87 104	Сергей Магнитский
+T10	PERSON 248 264	Уильяма Браудера
+T12	PERSON 375 393	Сергея Магнитского
+T17	PERSON 714 723	Браудером
+T23	PERSON 967 985	Сергея Магнитского
+T24	PERSON 1118 1128	Магнитский
+T30	PERSON 1356 1366	Магнитский
+T47	PERSON 527 537	Магнитским
+T53	PERSON 1051 1062	Магнитского
+R2	ALTERNATIVE_NAME Arg1:T2 Arg2:T4	
+R17	ALTERNATIVE_NAME Arg1:T12 Arg2:T47	
+R25	ALTERNATIVE_NAME Arg1:T23 Arg2:T53	

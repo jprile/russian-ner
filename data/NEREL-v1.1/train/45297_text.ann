@@ -1,0 +1,5 @@
+T3	PERSON 84 101	Дидье Буркхальтер
+T9	PERSON 174 191	Дидье Буркхальтер
+T14	PERSON 543 554	Буркхальтер
+T22	PERSON 868 879	Буркхальтер
+R20	ALTERNATIVE_NAME Arg1:T9 Arg2:T14	

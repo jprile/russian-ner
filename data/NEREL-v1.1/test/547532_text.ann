@@ -1,0 +1,6 @@
+T2	PERSON 68 80	Надин Доррис
+T4	PERSON 135 147	Надин Доррис
+T8	PERSON 305 311	Доррис
+T11	PERSON 399 412	Кэрри Симондс
+T1	PERSON 371 384	Борис Джонсон
+R18	ALTERNATIVE_NAME Arg1:T4 Arg2:T8	

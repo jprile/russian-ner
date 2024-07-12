@@ -1,0 +1,20 @@
+T1	PERSON 0 11	Мать Тереза
+T2	PERSON 18 45	Святой Терезой Калькуттской
+T3	PERSON 47 58	Мать Тереза
+T5	PERSON 72 80	Франциск
+T8	PERSON 197 205	Франциск
+T9	PERSON 214 225	мать Терезу
+T18	PERSON 464 475	мать Терезу
+T25	PERSON 653 673	Агнес Гондже Бояджиу
+T40	PERSON 1432 1446	Иоанн Павел II
+T41	PERSON 1474 1487	матери Терезы
+T43	PERSON 274 287	Святого Петра
+T51	PERSON 25 32	Терезой
+T52	PERSON 5 11	Тереза
+T54	PERSON 469 475	Терезу
+T55	PERSON 1481 1487	Терезы
+T56	PERSON 52 58	Тереза
+T57	PERSON 219 225	Терезу
+R19	ALTERNATIVE_NAME Arg1:T1 Arg2:T2	
+R22	ALTERNATIVE_NAME Arg1:T18 Arg2:T25	
+T61	PERSON 439 450	Нобелевской

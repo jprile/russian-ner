@@ -1,0 +1,4 @@
+T10	PERSON 260 274	Кэмерон Мэддок
+T11	PERSON 276 294	Cameron A. Meddock
+T40	PERSON 1193 1204	Юсеф Ахмади
+R1	ALTERNATIVE_NAME Arg1:T10 Arg2:T11	

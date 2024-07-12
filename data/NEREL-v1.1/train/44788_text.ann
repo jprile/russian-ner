@@ -1,0 +1,15 @@
+T1	PERSON 0 17	Аделина Сотникова
+T3	PERSON 31 48	Аделина Сотникова
+T5	PERSON 68 85	Аделина Сотникова
+T7	PERSON 128 145	Аделина Сотникова
+T11	PERSON 217 226	Сотникова
+T16	PERSON 315 322	Аделина
+T23	PERSON 499 507	Ким Ю На
+T28	PERSON 642 658	Каролины Костнер
+T32	PERSON 786 800	Юлия Липницкая
+T34	PERSON 898 915	Аделину Сотникову
+T36	PERSON 962 979	Аделина Сотникова
+T44	PERSON 1240 1249	Сотникову
+R27	ALTERNATIVE_NAME Arg1:T7 Arg2:T11	
+R28	ALTERNATIVE_NAME Arg1:T11 Arg2:T16	
+R29	ALTERNATIVE_NAME Arg1:T36 Arg2:T44	

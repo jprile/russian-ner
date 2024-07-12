@@ -1,0 +1,38 @@
+T1	PERSON 4 22	Виктор Альфредович
+T2	PERSON 36 54	Иваном Фёдоровичем
+T3	PERSON 55 79	Виктор Альфредович Куллэ
+T6	PERSON 138 164	Виктора Альфредовича Куллэ
+T8	PERSON 218 245	Иваном Фёдоровичем Ждановым
+T9	PERSON 258 272	Иван Фёдорович
+T10	PERSON 386 406	Виктора Альфредовича
+T11	PERSON 455 473	Виктор Альфредович
+T12	PERSON 528 544	Ивана Фёдоровича
+T13	PERSON 619 645	Виктора Альфредовича Куллэ
+T14	PERSON 687 705	Виктор Альфредович
+T17	PERSON 780 801	Иван Фёдорович Жданов
+T20	PERSON 910 931	Иван Фёдорович Жданов
+T23	PERSON 1035 1056	Иван Фёдорович Жданов
+T25	PERSON 1090 1118	Виктором Альфредовичем Куллэ
+T28	PERSON 1264 1270	Жданов
+T30	PERSON 1320 1336	Ивана Фёдоровича
+T31	PERSON 1350 1376	Виктору Альфредовичу Куллэ
+T32	PERSON 1417 1437	Виктора Альфредовича
+T34	PERSON 1451 1472	Иван Фёдорович Жданов
+T35	PERSON 1499 1512	Андрея Белого
+T36	PERSON 1514 1533	Аполлона Григорьева
+T37	PERSON 1535 1542	Арсения
+T38	PERSON 1545 1562	Андрея Тарковских
+T42	PERSON 1623 1649	Виктора Альфредовича Куллэ
+T48	PERSON 1788 1806	Виктор Альфредович
+T49	PERSON 1850 1866	Ивана Фёдоровича
+T61	PERSON 849 864	А. Ерамишанцева
+T39	PERSON 1571 1581	Пушкинской
+T44	PERSON 1739 1749	Пушкинская
+R1	ALTERNATIVE_NAME Arg1:T1 Arg2:T3	
+R4	ALTERNATIVE_NAME Arg1:T8 Arg2:T9	
+R5	ALTERNATIVE_NAME Arg1:T6 Arg2:T10	
+R14	ALTERNATIVE_NAME Arg1:T6 Arg2:T11	
+R15	ALTERNATIVE_NAME Arg1:T13 Arg2:T14	
+R46	ALTERNATIVE_NAME Arg1:T23 Arg2:T28	
+R47	ALTERNATIVE_NAME Arg1:T28 Arg2:T30	
+R48	ALTERNATIVE_NAME Arg1:T31 Arg2:T32	

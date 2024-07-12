@@ -1,0 +1,11 @@
+T1	PERSON 5 18	Галина Волчек
+T2	PERSON 32 45	Галина Волчек
+T6	PERSON 127 140	Галина Волчек
+T14	PERSON 717 730	Галина Волчек
+T21	PERSON 885 901	Галина Борисовна
+T26	PERSON 1005 1018	Галина Волчек
+T31	PERSON 1090 1102	Борис Волчек
+T39	PERSON 311 317	Волчек
+T44	PERSON 604 610	Волчек
+R34	ALTERNATIVE_NAME Arg1:T6 Arg2:T39	
+T50	PERSON 279 289	Боткинскую

@@ -1,0 +1,13 @@
+T6	PERSON 115 120	Басте
+T7	PERSON 122 139	Василий Вакуленко
+T18	PERSON 545 550	Баста
+T22	PERSON 625 630	Басты
+T37	PERSON 1210 1229	Александр Розенбаум
+T38	PERSON 1231 1249	Николай Расторгуев
+T39	PERSON 1251 1263	Олег Табаков
+T40	PERSON 1265 1276	Лев Лещенко
+T41	PERSON 1278 1290	Иосиф Кобзон
+T42	PERSON 19 24	Басте
+T44	PERSON 52 57	Баста
+T57	PERSON 765 770	Басты
+R12	ALTERNATIVE_NAME Arg1:T6 Arg2:T7	

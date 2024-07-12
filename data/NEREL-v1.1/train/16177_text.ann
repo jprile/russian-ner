@@ -1,0 +1,15 @@
+T2	PERSON 23 41	Сильвио Берлускони
+T3	PERSON 80 91	Марио Монти
+T4	PERSON 92 103	Марио Монти
+T5	PERSON 147 165	Сильвио Берлускони
+T7	PERSON 209 228	Джорджио Наполитано
+T9	PERSON 259 270	Марио Монти
+T12	PERSON 410 420	Наполитано
+T14	PERSON 487 492	Монти
+T17	PERSON 640 645	Монти
+T19	PERSON 753 758	Монти
+T21	PERSON 971 982	Марио Монти
+T24	PERSON 1071 1081	Наполитано
+T42	PERSON 597 607	Берлускони
+R18	ALTERNATIVE_NAME Arg1:T7 Arg2:T12	
+R24	ALTERNATIVE_NAME Arg1:T9 Arg2:T14	

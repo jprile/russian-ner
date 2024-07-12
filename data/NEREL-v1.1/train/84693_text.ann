@@ -1,0 +1,11 @@
+T5	PERSON 118 127	Лев Дуров
+T8	PERSON 183 200	Екатерины Дуровой
+T12	PERSON 294 314	Льву Константиновичу
+T13	PERSON 409 425	Сергей Голомазов
+T18	PERSON 706 715	Лев Дуров
+T20	PERSON 827 851	Лев Константинович Дуров
+T32	PERSON 20 29	Лев Дуров
+T33	PERSON 10 19	Лев Дуров
+T31	PERSON 1178 1188	Д’Артаньян
+R44	ALTERNATIVE_NAME Arg1:T5 Arg2:T12	
+R47	ALTERNATIVE_NAME Arg1:T18 Arg2:T20	

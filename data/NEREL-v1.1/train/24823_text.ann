@@ -1,0 +1,40 @@
+T1	PERSON 0 13	Ксения Собчак
+T2	PERSON 29 46	Максима Виторгана
+T3	PERSON 47 60	Ксения Собчак
+T4	PERSON 61 76	Максим Виторган
+T8	PERSON 166 179	Ксения Собчак
+T10	PERSON 188 203	Максим Виторган
+T11	PERSON 273 279	Ксения
+T12	PERSON 282 288	Максим
+T16	PERSON 501 518	Эммануил Виторган
+T17	PERSON 535 551	Людмила Нарусова
+T18	PERSON 578 593	Алексей Кортнев
+T20	PERSON 665 671	Собчак
+T21	PERSON 748 764	Людмила Нарусова
+T23	PERSON 945 964	Эммануила Виторгана
+T24	PERSON 1006 1019	Ксению Собчак
+T25	PERSON 1109 1115	Ксении
+T26	PERSON 1118 1125	Максима
+T30	PERSON 1246 1265	Алексея Венедиктова
+T31	PERSON 1274 1287	Ксения Собчак
+T34	PERSON 1456 1480	Александром Шустеровичем
+T35	PERSON 1547 1553	Собчак
+T37	PERSON 1579 1596	Михаила Прохорова
+T39	PERSON 1634 1648	Сергея Капкова
+T40	PERSON 1669 1675	Ксения
+T41	PERSON 1690 1702	Ильёй Яшиным
+T44	PERSON 1803 1811	Максимом
+T45	PERSON 1876 1889	Ксения Собчак
+T48	PERSON 1921 1938	Максима Виторгана
+T52	PERSON 2022 2030	Виторган
+T55	PERSON 2057 2074	Викториий Верберг
+T56	PERSON 2100 2107	Даниила
+T59	PERSON 2166 2172	Полина
+T66	PERSON 560 567	Глюкоза
+T68	PERSON 741 747	Ксении
+T86	PERSON 2143 2151	Натальей
+R11	ALTERNATIVE_NAME Arg1:T8 Arg2:T11	
+R12	ALTERNATIVE_NAME Arg1:T10 Arg2:T12	
+R27	ALTERNATIVE_NAME Arg1:T11 Arg2:T20	
+R58	ALTERNATIVE_NAME Arg1:T48 Arg2:T52	
+R62	ALTERNATIVE_NAME Arg1:T44 Arg2:T48	

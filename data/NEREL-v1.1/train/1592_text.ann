@@ -1,0 +1,13 @@
+T8	PERSON 159 174	Сюзанна Остхофф
+T9	PERSON 176 191	Susanne Osthoff
+T20	PERSON 617 632	Сюзанна Остхофф
+T26	PERSON 888 903	Сюзанна Остхофф
+T44	PERSON 1366 1381	Сюзанна Остхофф
+T59	PERSON 2080 2095	Сюзанны Остхофф
+T61	PERSON 2352 2367	Сюзанна Остхофф
+T62	PERSON 2369 2384	Susanne Osthoff
+T76	PERSON 754 768	Сюзанна Остхоф
+T77	PERSON 1016 1031	Сюзанна Остхофф
+T80	PERSON 1258 1273	Сюзанна Остхофф
+R2	ALTERNATIVE_NAME Arg1:T8 Arg2:T9	
+R11	ALTERNATIVE_NAME Arg1:T61 Arg2:T62	

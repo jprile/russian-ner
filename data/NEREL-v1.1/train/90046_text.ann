@@ -1,0 +1,10 @@
+T2	PERSON 29 45	Джордж Уокер Буш
+T7	PERSON 156 165	Харпер Ли
+T8	PERSON 251 253	Ли
+T20	PERSON 674 685	Скотт Рудин
+T23	PERSON 780 794	Аттикуса Финча
+T24	PERSON 802 813	Грегори Пек
+T29	PERSON 987 989	Ли
+T37	PERSON 7 16	Харпер Ли
+T38	PERSON 17 26	Харпер Ли
+R22	ALTERNATIVE_NAME Arg1:T7 Arg2:T8	

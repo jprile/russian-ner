@@ -1,0 +1,10 @@
+T10	PERSON 306 323	Вадим Ампелонский
+T14	PERSON 463 474	Павел Дуров
+T17	PERSON 591 608	Александра Жарова
+T20	PERSON 809 815	Яровой
+T26	PERSON 929 942	Ириной Яровой
+T28	PERSON 955 972	Виктором Озеровым
+T35	PERSON 78 84	Яровой
+T38	PERSON 186 192	Яровой
+T16	PERSON 626 633	Дуровым
+R10	ALTERNATIVE_NAME Arg1:T14 Arg2:T16	

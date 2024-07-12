@@ -1,0 +1,20 @@
+T3	PERSON 47 57	Карл Маркс
+T4	PERSON 60 76	Николай Коперник
+T10	PERSON 209 221	Карла Маркса
+T13	PERSON 254 264	Карл Маркс
+T18	PERSON 442 453	Си Цзиньпин
+T20	PERSON 509 517	Ли Кэцян
+T21	PERSON 519 529	Ли Чжаньшу
+T22	PERSON 531 537	Ван Ян
+T23	PERSON 539 548	Ван Хунин
+T24	PERSON 550 560	Чжао Лэцзи
+T25	PERSON 562 571	Хань Чжэн
+T26	PERSON 574 584	Ван Цишань
+T28	PERSON 659 670	Си Цзиньпин
+T29	PERSON 678 684	Маркса
+T30	PERSON 796 801	Маркс
+T32	PERSON 1008 1014	Маркса
+T33	PERSON 1075 1086	Си Цзиньпин
+T35	PERSON 1468 1479	Си Цзиньпин
+T42	PERSON 40 46	Маркса
+R32	ALTERNATIVE_NAME Arg1:T42 Arg2:T3	

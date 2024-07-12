@@ -1,0 +1,10 @@
+T1	PERSON 11 23	Нэнси Рейган
+T2	PERSON 63 68	Нэнси
+T3	PERSON 71 88	Рональда Рейганов
+T8	PERSON 232 250	Нэнси Дэвис Рейган
+T9	PERSON 283 299	Рональда Рейгана
+T10	PERSON 321 326	Нэнси
+T12	PERSON 395 409	Рональд Рейган
+T24	PERSON 574 590	Рональда Рейгана
+R11	ALTERNATIVE_NAME Arg1:T1 Arg2:T2	
+R17	ALTERNATIVE_NAME Arg1:T8 Arg2:T10	

@@ -1,0 +1,33 @@
+T1	PERSON 0 8	Медведев
+T2	PERSON 16 29	Суходольского
+T5	PERSON 84 100	Дмитрий Медведев
+T7	PERSON 138 159	Михаила Суходольского
+T10	PERSON 299 311	Суходольский
+T13	PERSON 403 420	Рашида Нургалиева
+T18	PERSON 611 623	Сергей Умнов
+T19	PERSON 632 637	Умнов
+T20	PERSON 659 672	Суходольского
+T23	PERSON 791 812	Владислав Пиотровский
+T24	PERSON 818 829	Пиотровский
+T29	PERSON 1110 1125	Никита Леонтьев
+T31	PERSON 1161 1173	Денис Иванов
+T33	PERSON 1220 1235	Олег Прохоренко
+T34	PERSON 1238 1251	Алексей Малых
+T35	PERSON 1301 1307	Иванов
+T36	PERSON 1365 1374	Леонтьеву
+T37	PERSON 1432 1439	Иванова
+T38	PERSON 1497 1507	Прохоренко
+T39	PERSON 1509 1514	Малых
+T42	PERSON 1551 1573	Валерий Белоцерковский
+T44	PERSON 1632 1651	Рашидом Нургалиевым
+T45	PERSON 1663 1675	Суходольский
+T46	PERSON 2026 2038	Суходольский
+T51	PERSON 2150 2167	Рашиду Нургалиеву
+T68	PERSON 575 588	Суходольского
+T72	PERSON 931 950	Михаил Суходольский
+R10	ALTERNATIVE_NAME Arg1:T2 Arg2:T7	
+R11	ALTERNATIVE_NAME Arg1:T1 Arg2:T5	
+R25	ALTERNATIVE_NAME Arg1:T18 Arg2:T19	
+R44	ALTERNATIVE_NAME Arg1:T23 Arg2:T24	
+R56	ALTERNATIVE_NAME Arg1:T31 Arg2:T35	
+R58	ALTERNATIVE_NAME Arg1:T29 Arg2:T36	

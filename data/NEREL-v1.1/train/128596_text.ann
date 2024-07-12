@@ -1,0 +1,9 @@
+T4	PERSON 94 108	Роман Селезнёв
+T8	PERSON 233 250	Валерия Селезнёва
+T10	PERSON 474 482	Селезнёв
+T12	PERSON 634 643	Селезнёва
+T20	PERSON 888 896	Селезнёв
+T27	PERSON 70 76	Фемида
+T28	PERSON 187 196	Селезнёва
+T35	PERSON 761 769	Селезнёв
+R10	ALTERNATIVE_NAME Arg1:T4 Arg2:T28	

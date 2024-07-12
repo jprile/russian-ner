@@ -1,0 +1,22 @@
+T1	PERSON 0 13	Сергей Шнуров
+T2	PERSON 23 36	Сергей Шнуров
+T5	PERSON 72 85	Сергей Шнуров
+T8	PERSON 179 194	Еленой Мозговой
+T9	PERSON 309 318	Матильдой
+T10	PERSON 452 460	Матильда
+T11	PERSON 480 487	Сергеем
+T14	PERSON 641 657	Дмитрий Гугучкин
+T16	PERSON 693 707	Сергея Шнурова
+T17	PERSON 930 936	Шнуров
+T18	PERSON 952 961	Матильдой
+T25	PERSON 1157 1164	Шнурова
+T26	PERSON 1175 1183	Серафима
+T28	PERSON 1213 1231	Марией Исмагиловой
+T29	PERSON 1238 1245	Аполлон
+T31	PERSON 1271 1291	Светланой Костицыной
+T34	PERSON 1347 1365	Оксаной Акиньшиной
+T40	PERSON 168 177	Матильдой
+T48	PERSON 1308 1314	Шнуров
+R7	ALTERNATIVE_NAME Arg1:T40 Arg2:T8	
+R11	ALTERNATIVE_NAME Arg1:T5 Arg2:T11	
+R25	ALTERNATIVE_NAME Arg1:T11 Arg2:T17	

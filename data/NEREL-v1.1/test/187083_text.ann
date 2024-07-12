@@ -1,0 +1,23 @@
+T2	PERSON 65 78	Денис Муквеге
+T3	PERSON 79 89	Надя Мурад
+T6	PERSON 141 155	Денису Муквеге
+T9	PERSON 215 225	Наде Мурад
+T12	PERSON 384 404	Берит Рейсс-Андерсен
+T14	PERSON 437 444	Муквеге
+T15	PERSON 447 452	Мурад
+T20	PERSON 783 791	Муквегег
+T21	PERSON 894 901	Муквеге
+T24	PERSON 975 980	Мурад
+T30	PERSON 1470 1477	Муквеге
+T32	PERSON 1493 1498	Мурад
+T49	PERSON 2016 2035	Хуан Мануэль Сантос
+T62	PERSON 565 573	Муквегег
+T75	PERSON 1460 1468	Сахарова
+R10	ALTERNATIVE_NAME Arg1:T9 Arg2:T15	
+R11	ALTERNATIVE_NAME Arg1:T6 Arg2:T14	
+T71	PERSON 0 11	Нобелевскую
+T77	PERSON 90 101	Нобелевская
+T86	PERSON 930 941	Нобелевскую
+T87	PERSON 1545 1556	Нобелевскую
+T88	PERSON 1736 1747	Нобелевских
+T89	PERSON 1841 1852	Нобелевская

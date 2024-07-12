@@ -1,0 +1,10 @@
+T5	PERSON 244 255	Фуад Мбазаа
+T7	PERSON 279 294	Мохамед Ганнучи
+T16	PERSON 669 687	Фатхи Абд Эннатхер
+T23	PERSON 1087 1109	Зин эль-Абидин Бен Али
+T29	PERSON 1301 1323	Зин эль-Абидин Бен-Али
+T32	PERSON 1496 1505	М.Ганнучи
+T36	PERSON 63 71	Ф.Мбазаа
+T47	PERSON 863 872	М.Ганнучи
+R23	ALTERNATIVE_NAME Arg1:T36 Arg2:T5	
+R24	ALTERNATIVE_NAME Arg1:T7 Arg2:T47	

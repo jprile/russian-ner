@@ -1,0 +1,7 @@
+T3	PERSON 81 92	Пьер Фогель
+T20	PERSON 851 864	Микаэль Арпон
+T21	PERSON 866 880	Mickaël Harpon
+T38	PERSON 278 295	Жан-Франсуа Рикар
+T42	PERSON 634 640	Аллаху
+T43	PERSON 676 686	Мухаммедом
+R6	ALTERNATIVE_NAME Arg1:T20 Arg2:T21	

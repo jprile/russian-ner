@@ -1,0 +1,10 @@
+T5	PERSON 137 151	Франсуа Олланд
+T10	PERSON 271 277	Олланд
+T12	PERSON 333 344	Мартин Обри
+T19	PERSON 542 553	Мартин Обри
+T22	PERSON 664 671	Олланда
+T23	PERSON 710 724	Франсуа Олланд
+T25	PERSON 817 831	Сеголен Руаяль
+T31	PERSON 1037 1043	Олланд
+T33	PERSON 1142 1156	Николя Саркози
+R3	ALTERNATIVE_NAME Arg1:T5 Arg2:T10	

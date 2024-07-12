@@ -1,0 +1,13 @@
+T1	PERSON 20 30	Би Би Кинг
+T2	PERSON 31 41	Би Би Кинг
+T6	PERSON 200 204	Кинг
+T11	PERSON 389 393	Кинг
+T21	PERSON 835 845	Би Би Кинг
+T22	PERSON 946 960	Эрика Клэптона
+T23	PERSON 962 972	Отиса Раша
+T24	PERSON 974 983	Бадди Гая
+T25	PERSON 985 1001	Джимми Хендрикса
+T26	PERSON 1003 1016	Джона Мейолла
+T27	PERSON 1019 1032	Кита Ричардса
+T33	PERSON 372 386	Джон Фуденберг
+R26	ALTERNATIVE_NAME Arg1:T2 Arg2:T6	

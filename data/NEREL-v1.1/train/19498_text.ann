@@ -1,0 +1,8 @@
+T1	PERSON 0 10	Ричард Бах
+T2	PERSON 35 45	Ричард Бах
+T3	PERSON 48 61	Линн Гаррисон
+T7	PERSON 152 162	Ричард Бах
+T14	PERSON 699 709	Ричард Бах
+T16	PERSON 828 838	Джеймс Бах
+T22	PERSON 1167 1177	Ричард Бах
+R24	ABBREVIATION Arg1:T14 Arg2:T16	

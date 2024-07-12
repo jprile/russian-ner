@@ -1,0 +1,6 @@
+T5	PERSON 102 116	Алексей Миллер
+T11	PERSON 379 393	Алексей Миллер
+T13	PERSON 601 607	Миллер
+T16	PERSON 756 770	Марсель Крамер
+T25	PERSON 1030 1042	Олег Аксютин
+R23	ALTERNATIVE_NAME Arg1:T11 Arg2:T13	

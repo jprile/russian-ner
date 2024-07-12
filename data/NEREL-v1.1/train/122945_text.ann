@@ -1,0 +1,23 @@
+T1	PERSON 0 8	Гай Ричи
+T2	PERSON 45 53	Аладдина
+T3	PERSON 66 73	Мадонна
+T4	PERSON 83 91	Гай Ричи
+T5	PERSON 122 130	Аладдина
+T8	PERSON 208 220	Рэнди Хиллер
+T11	PERSON 277 285	Аладдина
+T12	PERSON 307 311	Ричи
+T15	PERSON 524 531	Алладин
+T16	PERSON 549 560	Дева Пателя
+T17	PERSON 565 576	Риза Ахмеда
+T20	PERSON 655 661	Жасмин
+T22	PERSON 686 697	Наоми Скотт
+T24	PERSON 708 720	Тара Сутариа
+T25	PERSON 730 738	Гай Ричи
+T26	PERSON 799 807	Алладина
+T28	PERSON 898 909	Мена Массуд
+T31	PERSON 946 961	Джордж Костурос
+T33	PERSON 1078 1087	Уилл Смит
+T34	PERSON 54 63	Гай Ричии
+T32	PERSON 921 932	Ахраф Котет
+T37	PERSON 298 304	Жасмин
+R5	ALTERNATIVE_NAME Arg1:T4 Arg2:T12	

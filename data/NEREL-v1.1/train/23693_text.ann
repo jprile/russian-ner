@@ -1,0 +1,5 @@
+T4	PERSON 52 67	Григорий Ревзин
+T11	PERSON 215 231	Григория Ревзина
+T14	PERSON 307 313	Ревзин
+T19	PERSON 746 752	Ревзин
+R12	ALTERNATIVE_NAME Arg1:T11 Arg2:T14	

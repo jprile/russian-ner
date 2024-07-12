@@ -1,0 +1,7 @@
+T2	PERSON 28 38	Кейт Спейд
+T5	PERSON 116 126	Кейт Спейд
+T9	PERSON 217 221	Кейт
+T10	PERSON 254 264	Кейт Спейд
+T13	PERSON 355 367	Энди Спейдом
+T6	PERSON 546 556	Кейт Спейд
+R7	ALTERNATIVE_NAME Arg1:T5 Arg2:T9	

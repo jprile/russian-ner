@@ -1,0 +1,7 @@
+T16	PERSON 574 592	Микалаю Мардахаеву
+T19	PERSON 658 674	Джорджем О'Тулом
+T21	PERSON 860 870	Мардахаева
+T29	PERSON 1700 1710	Мардахаеву
+T34	PERSON 696 705	Мардахаев
+T37	PERSON 1005 1014	Мардахаев
+R23	ALTERNATIVE_NAME Arg1:T16 Arg2:T34	

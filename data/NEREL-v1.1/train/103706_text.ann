@@ -1,0 +1,7 @@
+T1	PERSON 0 11	Мик Джаггер
+T3	PERSON 40 51	Мик Джаггер
+T9	PERSON 165 176	Мик Джаггер
+T14	PERSON 361 369	Джаггера
+T18	PERSON 403 416	Мелани Хэмрик
+T19	PERSON 421 429	Джаггера
+R17	ALTERNATIVE_NAME Arg1:T9 Arg2:T14	

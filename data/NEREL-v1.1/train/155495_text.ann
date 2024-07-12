@@ -1,0 +1,36 @@
+T1	PERSON 0 15	Настасья Кински
+T2	PERSON 55 66	Джон Сэвидж
+T3	PERSON 77 92	Настасья Кински
+T7	PERSON 156 171	Настасья Кински
+T13	PERSON 364 370	Кински
+T15	PERSON 404 416	Анна Меликян
+T17	PERSON 437 448	Джон Сэвидж
+T19	PERSON 469 476	Лян Цяо
+T22	PERSON 523 540	Паоло Дель Брокко
+T23	PERSON 542 558	Paolo Del Brocco
+T24	PERSON 562 577	Настасья Кински
+T26	PERSON 669 682	Вима Вендерса
+T27	PERSON 684 699	Романа Полански
+T28	PERSON 701 723	Фрэнсиса Форда Копполы
+T29	PERSON 725 740	Тони Ричардсона
+T30	PERSON 742 754	Пола Шредера
+T31	PERSON 756 770	Джеймса Тобэка
+T32	PERSON 772 788	Жан-Жака Бенекса
+T34	PERSON 857 865	Полански
+T35	PERSON 867 873	Кински
+T37	PERSON 966 986	Андрея Кончаловского
+T39	PERSON 1002 1019	Ежи Сколимовского
+T40	PERSON 1031 1040	Тургенева
+T42	PERSON 1069 1081	Андрея Эшпая
+T43	PERSON 1092 1104	Достоевского
+T44	PERSON 1107 1113	Кински
+T46	PERSON 1174 1186	Достоевского
+T49	PERSON 1227 1232	Алёша
+T50	PERSON 1235 1239	Соня
+T51	PERSON 1267 1279	Достоевского
+T61	PERSON 1727 1745	Рудольфом Нуреевым
+T63	PERSON 1773 1781	Полански
+T67	PERSON 1340 1355	Джином Сискелом
+R8	ALTERNATIVE_NAME Arg1:T22 Arg2:T23	
+R9	ALTERNATIVE_NAME Arg1:T7 Arg2:T13	
+R69	ALTERNATIVE_NAME Arg1:T27 Arg2:T34	

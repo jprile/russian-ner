@@ -1,0 +1,15 @@
+T1	PERSON 0 14	Жерар Депардьё
+T3	PERSON 60 74	Жерар Депардьё
+T4	PERSON 76 88	Жан-Марк Эро
+T12	PERSON 430 444	Жерар Депардьё
+T27	PERSON 1204 1215	Бернар Арно
+T30	PERSON 1312 1331	Жан-Паскаль Трикуар
+T34	PERSON 1430 1447	Линдси Оуэн-Джонс
+T43	PERSON 1726 1738	Жан-Марк Эро
+T44	PERSON 1754 1762	Депардье
+T47	PERSON 2092 2100	Депардьё
+T49	PERSON 2224 2228	Эйро
+T63	PERSON 500 515	Франсуа Олланда
+T70	PERSON 1513 1527	Жерар Депардьё
+R32	ALTERNATIVE_NAME Arg1:T43 Arg2:T49	
+R33	ALTERNATIVE_NAME Arg1:T70 Arg2:T44	

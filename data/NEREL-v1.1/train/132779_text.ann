@@ -1,0 +1,14 @@
+T3	PERSON 57 71	Игорь Мосийчук
+T8	PERSON 222 237	Игоря Мосийчука
+T16	PERSON 523 537	Игорь Мосийчук
+T18	PERSON 704 713	Мосийчука
+T21	PERSON 831 841	Олег Ляшко
+T24	PERSON 1068 1076	Мосийчук
+T35	PERSON 1565 1581	Рамзана Кадырова
+T37	PERSON 1660 1666	Песков
+T44	PERSON 1351 1365	Дмитрий Песков
+T47	PERSON 72 86	Игорь Мосийчук
+T57	PERSON 609 618	Мосийчука
+T63	PERSON 1213 1221	Мосийчук
+R34	ALTERNATIVE_NAME Arg1:T8 Arg2:T57	
+R46	ALTERNATIVE_NAME Arg1:T44 Arg2:T37	

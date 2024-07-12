@@ -1,0 +1,15 @@
+T2	PERSON 12 29	Владимир Макеенко
+T4	PERSON 83 100	Владимир Макеенко
+T7	PERSON 166 183	Владимир Макеенко
+T9	PERSON 251 259	Макеенко
+T11	PERSON 328 345	Виктору Януковичу
+T12	PERSON 350 367	Владимир Макеенко
+T27	PERSON 1747 1755	Макеенко
+T31	PERSON 1905 1922	Владимир Макеенко
+T32	PERSON 1924 1956	Володимир Володимирович Макеєнко
+T40	PERSON 2167 2184	Владимир Макеенко
+R3	ALTERNATIVE_NAME Arg1:T31 Arg2:T32	
+T58	PERSON 2268 2285	Виктора Януковича
+R26	ALTERNATIVE_NAME Arg1:T7 Arg2:T9	
+R27	ALTERNATIVE_NAME Arg1:T9 Arg2:T12	
+R35	ALTERNATIVE_NAME Arg1:T27 Arg2:T31	

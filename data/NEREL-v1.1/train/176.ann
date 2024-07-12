@@ -1,0 +1,11 @@
+T2	PERSON 0 10	Д.Медведев
+T3	PERSON 20 32	А.Бастрыкина
+T7	PERSON 64 80	Дмитрий Медведев
+T8	PERSON 103 124	Александра Бастрыкина
+T13	PERSON 234 245	А.Бастрыкин
+T17	PERSON 450 461	А.Бастрыкин
+T19	PERSON 486 497	А.Бастрыкин
+T29	PERSON 828 840	Д.Медведевым
+T52	PERSON 621 628	Жданова
+R28	ALTERNATIVE_NAME Arg1:T2 Arg2:T7	
+R34	ALTERNATIVE_NAME Arg1:T3 Arg2:T8	

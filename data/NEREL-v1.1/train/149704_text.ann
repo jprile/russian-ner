@@ -1,0 +1,14 @@
+T3	PERSON 31 51	Владимиром Голицыным
+T10	PERSON 212 239	Владимир Кириллович Голицын
+T17	PERSON 497 513	Владимир Голицын
+T22	PERSON 609 636	Кирилл Владимирович Голицын
+T23	PERSON 639 668	Марина Александровна Де Энден
+T30	PERSON 911 918	Голицын
+T37	PERSON 1365 1372	Голицын
+T45	PERSON 1634 1649	Антона Деникина
+T46	PERSON 1683 1701	Владимира Голицына
+T50	PERSON 1836 1852	Владимир Голицын
+T58	PERSON 718 725	Голицын
+R21	ALTERNATIVE_NAME Arg1:T10 Arg2:T17	
+R26	ALTERNATIVE_NAME Arg1:T17 Arg2:T58	
+R40	ABBREVIATION Arg1:T45 Arg2:T44	

@@ -1,0 +1,7 @@
+T3	PERSON 40 56	Умарали Кувватов
+T5	PERSON 125 140	Эмомали Рахмона
+T11	PERSON 280 296	Умарали Кувватов
+T19	PERSON 559 567	Кувватов
+T31	PERSON 587 594	Рахмона
+R29	ALTERNATIVE_NAME Arg1:T11 Arg2:T19	
+R30	ALTERNATIVE_NAME Arg1:T5 Arg2:T31	

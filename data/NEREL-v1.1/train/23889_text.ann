@@ -1,0 +1,18 @@
+T1	PERSON 0 16	Оксана Акиньшина
+T3	PERSON 40 56	Оксана Акиньшина
+T9	PERSON 184 200	Оксана Акиньшина
+T14	PERSON 337 343	Оксаны
+T17	PERSON 387 402	Арчила Геловани
+T18	PERSON 407 414	Арчилом
+T20	PERSON 478 484	Оксаны
+T22	PERSON 509 515	Филипп
+T26	PERSON 597 616	Дмитрием Литвиновым
+T27	PERSON 633 639	Оксана
+T29	PERSON 885 901	Оксана Акиньшина
+T32	PERSON 985 999	Сергея Бодрова
+T35	PERSON 1053 1066	Катей Гориной
+T44	PERSON 1292 1298	Оксана
+T48	PERSON 415 421	Оксана
+T55	PERSON 832 838	Оксана
+R8	ALTERNATIVE_NAME Arg1:T9 Arg2:T14	
+R12	ALTERNATIVE_NAME Arg1:T17 Arg2:T18	

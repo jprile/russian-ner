@@ -1,0 +1,6 @@
+T1	PERSON 0 14	Ярослав Песков
+T5	PERSON 117 131	Ярослав Песков
+T8	PERSON 334 348	Ярослав Песков
+T14	PERSON 620 635	Ярослав Плесков
+T20	PERSON 800 806	Песков
+R11	ALTERNATIVE_NAME Arg1:T14 Arg2:T20	

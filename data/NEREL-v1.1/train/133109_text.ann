@@ -1,0 +1,16 @@
+T1	PERSON 20 32	Джигарханяна
+T4	PERSON 104 123	Армена Джигарханяна
+T5	PERSON 171 188	Армен Джигарханян
+T12	PERSON 484 501	Армена Борисовича
+T13	PERSON 518 530	Джигарханяна
+T14	PERSON 580 599	Артуром Согомоняном
+T16	PERSON 834 863	Виталины Цымбалюк-Романовской
+T17	PERSON 892 912	Цымбалюк-Романовская
+T20	PERSON 956 971	Андрея Малахова
+T25	PERSON 1022 1033	Элина Мазур
+T26	PERSON 1051 1071	Цымбалюк-Романовская
+T37	PERSON 1267 1286	Армена Джигарханяна
+T15	PERSON 821 833	Джигарханяна
+R5	ALTERNATIVE_NAME Arg1:T5 Arg2:T12	
+R6	ALTERNATIVE_NAME Arg1:T12 Arg2:T13	
+R16	ALTERNATIVE_NAME Arg1:T16 Arg2:T17	

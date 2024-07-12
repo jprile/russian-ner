@@ -1,0 +1,9 @@
+T3	PERSON 59 73	Доминик Веннер
+T8	PERSON 297 311	Доминик Веннер
+T10	PERSON 350 360	Богоматери
+T18	PERSON 810 816	Веннер
+T22	PERSON 1274 1280	Веннер
+T27	PERSON 105 115	Богоматери
+T29	PERSON 141 151	Богоматери
+T36	PERSON 486 492	Веннер
+R27	ALTERNATIVE_NAME Arg1:T8 Arg2:T36	

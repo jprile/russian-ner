@@ -1,0 +1,14 @@
+T1	PERSON 0 8	Медведев
+T4	PERSON 47 54	Лужкова
+T7	PERSON 72 88	Дмитрий Медведев
+T13	PERSON 224 238	Владимир Путин
+T14	PERSON 241 252	Юрий Лужков
+T15	PERSON 254 265	Юрий Лужков
+T27	PERSON 825 837	Юрия Лужкова
+T28	PERSON 852 867	Елены Батуриной
+T29	PERSON 971 983	Иосиф Кобзон
+T30	PERSON 1002 1016	Юрием Лужковым
+T32	PERSON 1153 1164	Юрий Лужков
+T44	PERSON 1402 1426	Владимир Иосифович Ресин
+R20	ALTERNATIVE_NAME Arg1:T1 Arg2:T7	
+R24	ALTERNATIVE_NAME Arg1:T4 Arg2:T14	

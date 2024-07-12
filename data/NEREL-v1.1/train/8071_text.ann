@@ -1,0 +1,14 @@
+T6	PERSON 175 206	Андрияну Григорьевичу Николаеву
+T13	PERSON 590 605	А. Г. Николаева
+T18	PERSON 725 756	Андрияна Григорьевича Николаева
+T14	PERSON 53 68	А. Г. Николаева
+T23	PERSON 992 1005	Борис Волынов
+T26	PERSON 1007 1025	Анатолий Березовой
+T28	PERSON 1236 1254	Андрияну Николаеву
+T33	PERSON 1650 1666	Андриан Николаев
+T35	PERSON 1954 1972	Андрияна Николаева
+R16	ALTERNATIVE_NAME Arg1:T14 Arg2:T6	
+T22	PERSON 1027 1042	Виктор Горбатко
+R27	ALTERNATIVE_NAME Arg1:T18 Arg2:T28	
+R29	ALTERNATIVE_NAME Arg1:T13 Arg2:T18	
+R30	ALTERNATIVE_NAME Arg1:T28 Arg2:T33	

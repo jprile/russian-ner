@@ -1,0 +1,7 @@
+T1	PERSON 0 7	Манделу
+T2	PERSON 47 59	Джейкоб Зума
+T3	PERSON 92 108	Нельсона Манделы
+T5	PERSON 195 202	Мандела
+T8	PERSON 291 298	Мандела
+R1	ALTERNATIVE_NAME Arg1:T1 Arg2:T3	
+T10	PERSON 410 421	Нобелевской

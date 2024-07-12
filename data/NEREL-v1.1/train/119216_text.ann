@@ -1,0 +1,8 @@
+T6	PERSON 134 150	Арсеном Венгером
+T17	PERSON 482 494	Арсен Венгер
+T35	PERSON 38 54	Арсеном Венгером
+T37	PERSON 996 1003	Венгера
+T38	PERSON 696 702	Венгер
+T39	PERSON 55 67	Арсен Венгер
+T43	PERSON 262 270	Венгером
+R4	ALTERNATIVE_NAME Arg1:T6 Arg2:T43	

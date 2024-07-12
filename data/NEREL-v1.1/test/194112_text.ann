@@ -1,0 +1,20 @@
+T3	PERSON 132 145	Алексей Орлов
+T5	PERSON 213 230	Аркадий Чернецкий
+T9	PERSON 597 613	Владимир Терехин
+T13	PERSON 769 777	Владимир
+T14	PERSON 859 879	Александр Овчинников
+T15	PERSON 881 900	Кирилл Новокрещенов
+T16	PERSON 902 921	Даниил Новокрещенов
+T17	PERSON 923 937	Никита Кузьмин
+T18	PERSON 939 951	Никита Панов
+T19	PERSON 953 969	Владислав Смелов
+T20	PERSON 971 981	Егор Кашин
+T25	PERSON 1406 1421	Владимир Хитрин
+T28	PERSON 1552 1560	Владимир
+T31	PERSON 1668 1686	Владислав Крапивин
+T33	PERSON 1792 1801	Владислав
+T35	PERSON 2051 2064	Алексей Орлов
+T37	PERSON 2837 2854	Аркадий Чернецкий
+R24	ALTERNATIVE_NAME Arg1:T9 Arg2:T13	
+R36	ALTERNATIVE_NAME Arg1:T31 Arg2:T33	
+R68	ALTERNATIVE_NAME Arg1:T25 Arg2:T28	

@@ -1,0 +1,9 @@
+T2	PERSON 9 24	Маргарет Тэтчер
+T4	PERSON 58 73	Маргарет Тэтчер
+T8	PERSON 123 138	Маргарет Тэтчер
+T12	PERSON 220 228	Маргарет
+T13	PERSON 242 247	Денис
+T18	PERSON 410 416	Тэтчер
+T33	PERSON 934 949	Михаил Горбачёв
+R16	ALTERNATIVE_NAME Arg1:T8 Arg2:T12	
+R18	ALTERNATIVE_NAME Arg1:T12 Arg2:T18	

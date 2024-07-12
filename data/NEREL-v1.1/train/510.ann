@@ -1,0 +1,13 @@
+T2	PERSON 0 10	Д.Медведев
+T5	PERSON 52 65	Ю.Балуевского
+T7	PERSON 84 100	Дмитрий Медведев
+T8	PERSON 111 127	Юрия Балуевского
+T13	PERSON 331 344	Ю.Балуевскому
+T32	PERSON 859 871	Ю.Балуевский
+T40	PERSON 1154 1163	Н.Макаров
+T50	PERSON 1797 1812	Юрий Балуевский
+T12	PERSON 587 599	Ю.Балуевский
+T19	PERSON 758 764	Фрунзе
+R10	ALTERNATIVE_NAME Arg1:T5 Arg2:T8	
+R11	ALTERNATIVE_NAME Arg1:T2 Arg2:T7	
+R19	ALTERNATIVE_NAME Arg1:T8 Arg2:T13	

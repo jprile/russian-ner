@@ -1,0 +1,12 @@
+T1	PERSON 0 9	Уго Чавес
+T2	PERSON 40 49	Уго Чавес
+T4	PERSON 71 80	Уго Чавес
+T7	PERSON 233 246	Хорхе Арреаза
+T17	PERSON 903 919	Энрике Каприлеса
+T20	PERSON 1008 1013	Чавес
+T5	PERSON 272 278	Чавеса
+T55	PERSON 577 583	Чавеса
+T59	PERSON 825 834	Уго Чавес
+T69	PERSON 1139 1144	Чавес
+T70	PERSON 1256 1271	Николаса Мадуро
+R12	ALTERNATIVE_NAME Arg1:T4 Arg2:T5	

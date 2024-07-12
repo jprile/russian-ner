@@ -1,0 +1,17 @@
+T4	PERSON 134 144	Элис Манро
+T5	PERSON 146 161	Alice Ann Munro
+T8	PERSON 295 305	Элис Манро
+T10	PERSON 349 364	Харуки Мураками
+T12	PERSON 391 410	Светлана Алексиевич
+T13	PERSON 473 477	Элис
+T14	PERSON 523 533	Элис Манро
+T25	PERSON 1279 1294	Валерия Шнякина
+T38	PERSON 690 697	Чеховым
+T40	PERSON 836 840	Элис
+R4	ALTERNATIVE_NAME Arg1:T4 Arg2:T5	
+R9	ALTERNATIVE_NAME Arg1:T8 Arg2:T13	
+T17	PERSON 8 19	Нобелевские
+T51	PERSON 60 71	Нобелевская
+T52	PERSON 1010 1021	Нобелевская
+T53	PERSON 1034 1045	Нобелевскую
+T54	PERSON 1308 1319	Нобелевской

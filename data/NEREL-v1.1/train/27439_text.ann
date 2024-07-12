@@ -1,0 +1,17 @@
+T2	PERSON 28 35	Норьеги
+T6	PERSON 94 108	Оливье Метцнер
+T8	PERSON 186 201	Мануэль Норьега
+T10	PERSON 223 241	Доминик де Вильпен
+T12	PERSON 263 278	Роман Абрамович
+T13	PERSON 300 308	Метцнеру
+T18	PERSON 610 617	Метцнер
+T23	PERSON 1101 1108	Метцнер
+T24	PERSON 1130 1147	Романа Абрамовича
+T30	PERSON 1316 1336	Доминика де Вильпена
+T32	PERSON 1415 1422	Метцнер
+T36	PERSON 15 25	Абрамовича
+T56	PERSON 1029 1036	Норьеги
+T65	PERSON 1398 1412	Николя Саркози
+R1	ALTERNATIVE_NAME Arg1:T36 Arg2:T12	
+R10	ALTERNATIVE_NAME Arg1:T2 Arg2:T8	
+R20	ALTERNATIVE_NAME Arg1:T10 Arg2:T13	

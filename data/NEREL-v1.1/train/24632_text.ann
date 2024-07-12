@@ -1,0 +1,6 @@
+T6	PERSON 233 250	Брендана Маррокко
+T17	PERSON 1342 1350	Маррокко
+T20	PERSON 1527 1535	Маррокко
+T35	PERSON 538 546	Маррокко
+T12	PERSON 596 611	Джонса Хопкинса
+R19	ALTERNATIVE_NAME Arg1:T6 Arg2:T35	

@@ -1,0 +1,9 @@
+T3	PERSON 96 115	Хелле Торнинг-Шмитт
+T9	PERSON 375 394	Хелле Торнинг-Шмитт
+T14	PERSON 645 658	Торнинг-Шмитт
+T17	PERSON 784 796	Маргарете II
+T21	PERSON 873 897	Ларсом Лёкке Расмуссеном
+T22	PERSON 930 939	Расмуссен
+T23	PERSON 1018 1027	Расмуссен
+R7	ALTERNATIVE_NAME Arg1:T9 Arg2:T14	
+R16	ALTERNATIVE_NAME Arg1:T21 Arg2:T22	

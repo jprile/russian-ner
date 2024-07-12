@@ -1,0 +1,18 @@
+T1	PERSON 44 62	Александра Арапова
+T6	PERSON 326 344	Александра Арапова
+T9	PERSON 491 509	Александра Арапова
+T20	PERSON 733 742	А. Арапов
+T42	PERSON 1479 1486	Арапова
+T51	PERSON 1782 1800	Александра Арапова
+T65	PERSON 2176 2185	А. Арапов
+T68	PERSON 2324 2335	А. Араповым
+T71	PERSON 2528 2544	Любовь Дергачева
+T72	PERSON 2581 2588	Арапова
+T5	PERSON 173 187	И. Д. Воронина
+T14	PERSON 674 688	И. Д. Воронина
+T19	PERSON 829 844	М.В. Ломоносова
+T104	PERSON 1463 1477	М. А. Кастрена
+T57	PERSON 1965 1979	И. Д. Воронина
+R19	ALTERNATIVE_NAME Arg1:T9 Arg2:T20	
+R62	ALTERNATIVE_NAME Arg1:T68 Arg2:T72	
+R63	ALTERNATIVE_NAME Arg1:T51 Arg2:T68	

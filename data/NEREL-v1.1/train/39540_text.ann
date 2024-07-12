@@ -1,0 +1,10 @@
+T1	PERSON 0 19	Рустам Ибрагимбеков
+T3	PERSON 57 76	Рустам Ибрагимбеков
+T6	PERSON 149 168	Рустам Ибрагимбеков
+T8	PERSON 253 266	Ибрагимбекова
+T21	PERSON 862 881	Рустам Ибрагимбеков
+T26	PERSON 1109 1121	Ильхам Алиев
+T30	PERSON 1285 1290	Алиев
+T37	PERSON 615 628	Ибрагимбекова
+R5	ALTERNATIVE_NAME Arg1:T6 Arg2:T8	
+R20	ALTERNATIVE_NAME Arg1:T26 Arg2:T30	

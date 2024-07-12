@@ -1,0 +1,8 @@
+T3	PERSON 103 119	Дмитрий Смилянец
+T13	PERSON 539 547	Смилянца
+T16	PERSON 576 584	Смилянца
+T25	PERSON 986 994	Смилянец
+T29	PERSON 1188 1196	Смилянец
+T35	PERSON 1542 1550	Смилянца
+T37	PERSON 1579 1596	Владимир Дринкман
+R6	ALTERNATIVE_NAME Arg1:T3 Arg2:T13	

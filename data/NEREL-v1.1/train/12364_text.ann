@@ -1,0 +1,14 @@
+T1	PERSON 0 16	Джулиана Ассанжа
+T4	PERSON 128 144	Джулиана Ассанжа
+T6	PERSON 183 196	Говард Риддли
+T7	PERSON 227 233	Ассанж
+T8	PERSON 373 387	Джулиан Ассанж
+T11	PERSON 548 554	Ассанж
+T13	PERSON 620 627	Ассанжа
+T15	PERSON 717 729	Марк Стивенс
+T16	PERSON 837 843	Ассанж
+T19	PERSON 903 909	Ассанж
+T27	PERSON 1303 1310	Ассанжа
+T31	PERSON 1482 1488	Ассанж
+T32	PERSON 1600 1607	Ассанжа
+R9	ALTERNATIVE_NAME Arg1:T7 Arg2:T8	

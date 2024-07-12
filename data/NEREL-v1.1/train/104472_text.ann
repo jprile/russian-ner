@@ -1,0 +1,16 @@
+T6	PERSON 135 152	Дмитрия Аленичева
+T9	PERSON 253 269	Дмитрий Аленичев
+T14	PERSON 388 408	Дмитрия Анатольевича
+T16	PERSON 516 531	Массимо Каррера
+T18	PERSON 577 594	Дмитрия Аленичева
+T20	PERSON 675 683	Аленчиев
+T36	PERSON 1037 1065	Дмитрий Анатольевич Аленичев
+T47	PERSON 1424 1429	Куман
+T48	PERSON 1431 1438	Роналдо
+T49	PERSON 1440 1448	Джеррард
+R14	ALTERNATIVE_NAME Arg1:T9 Arg2:T14	
+R22	ALTERNATIVE_NAME Arg1:T18 Arg2:T20	
+R33	ALTERNATIVE_NAME Arg1:T18 Arg2:T36	
+T52	PERSON 30 39	Аленичева
+T53	PERSON 40 56	Дмитрий Аленичев
+R1	ALTERNATIVE_NAME Arg1:T52 Arg2:T53	

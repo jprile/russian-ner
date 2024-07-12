@@ -1,0 +1,14 @@
+T2	PERSON 92 111	Александру Денисову
+T4	PERSON 173 188	Светлана Орлова
+T6	PERSON 236 253	Александр Денисов
+T8	PERSON 308 323	Светлана Орлова
+T10	PERSON 432 439	Денисов
+T12	PERSON 649 668	Александру Денисову
+T14	PERSON 834 840	Орлова
+T27	PERSON 1510 1528	Николай Виноградов
+T30	PERSON 1661 1667	Орлова
+T33	PERSON 1766 1785	Владимира Безрукова
+T35	PERSON 1865 1879	Андрея Китаева
+T22	PERSON 1354 1360	Орлова
+R10	ALTERNATIVE_NAME Arg1:T6 Arg2:T10	
+R12	ALTERNATIVE_NAME Arg1:T8 Arg2:T14	

@@ -1,0 +1,10 @@
+T1	PERSON 0 8	Петросян
+T3	PERSON 35 51	Евгений Петросян
+T5	PERSON 69 85	Евгений Петросян
+T7	PERSON 117 135	Татьяне Брухуновой
+T12	PERSON 381 394	Елена Воробей
+T15	PERSON 478 494	Евгений Петросян
+T16	PERSON 515 532	Еленой Степаненко
+T25	PERSON 265 274	Брухунова
+R20	ALTERNATIVE_NAME Arg1:T1 Arg2:T3	
+R22	ALTERNATIVE_NAME Arg1:T7 Arg2:T25	

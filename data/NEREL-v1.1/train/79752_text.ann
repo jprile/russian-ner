@@ -1,0 +1,12 @@
+T2	PERSON 17 30	Аману Тулееву
+T3	PERSON 52 63	Аман Тулеев
+T9	PERSON 162 175	Амана Тулеева
+T11	PERSON 276 283	Тулеева
+T14	PERSON 444 451	Тулееву
+T16	PERSON 571 586	Сергей Кузнецов
+T18	PERSON 612 624	Максим Макин
+T19	PERSON 633 639	Тулеев
+T26	PERSON 898 905	Тулеева
+T31	PERSON 1217 1228	Аман Тулеев
+T37	PERSON 1451 1458	Тулеева
+R12	ALTERNATIVE_NAME Arg1:T9 Arg2:T11	

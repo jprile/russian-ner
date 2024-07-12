@@ -1,0 +1,9 @@
+T1	PERSON 5 17	Джордж Майкл
+T2	PERSON 19 31	Джордж Майкл
+T6	PERSON 77 89	Джордж Майкл
+T7	PERSON 92 97	Майкл
+T10	PERSON 131 144	Майкл Липпман
+T12	PERSON 181 187	Майкла
+T15	PERSON 441 453	Джордж Майкл
+T24	PERSON 753 768	Аретой Франклин
+R19	ALTERNATIVE_NAME Arg1:T6 Arg2:T7	

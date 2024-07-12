@@ -1,0 +1,6 @@
+T3	PERSON 102 115	Вадим Амстель
+T5	PERSON 197 216	Анастасия Кузнецова
+T11	PERSON 524 531	Амстеля
+T16	PERSON 718 737	Анастасия Кузнецова
+T21	PERSON 1013 1022	Кузнецова
+R34	ALTERNATIVE_NAME Arg1:T16 Arg2:T21	

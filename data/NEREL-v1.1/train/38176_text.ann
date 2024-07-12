@@ -1,0 +1,25 @@
+T1	PERSON 10 22	Рэй Манзарек
+T4	PERSON 61 73	Рэй Манзарек
+T11	PERSON 199 211	Рэй Манзарек
+T12	PERSON 214 222	Манзарек
+T18	PERSON 313 339	Хейди Робинсон-Фицджеральд
+T20	PERSON 417 429	Том Виторино
+T21	PERSON 453 462	Манзарека
+T24	PERSON 558 570	Рэй Манзарек
+T25	PERSON 615 632	Джимом Моррисоном
+T28	PERSON 698 707	Манзарека
+T29	PERSON 710 719	Моррисона
+T31	PERSON 768 780	Джон Денсмор
+T44	PERSON 1092 1104	Рэй Манзарек
+T45	PERSON 1193 1205	Рэй Манзарек
+T49	PERSON 1303 1316	Джим Моррисон
+T50	PERSON 1333 1341	Манзарек
+T55	PERSON 1638 1647	Моррисона
+T63	PERSON 1903 1912	Моррисона
+T64	PERSON 1953 1963	Игги Попом
+T79	PERSON 791 803	Робби Кригер
+T86	PERSON 1913 1921	Манзарек
+T67	PERSON 2028 2036	Манзарек
+R10	ALTERNATIVE_NAME Arg1:T11 Arg2:T12	
+R30	ALTERNATIVE_NAME Arg1:T25 Arg2:T29	
+R44	ALTERNATIVE_NAME Arg1:T45 Arg2:T50	

@@ -1,0 +1,7 @@
+T1	PERSON 0 9	Порошенко
+T3	PERSON 46 60	Пётр Порошенко
+T6	PERSON 79 93	Пётр Порошенко
+T27	PERSON 651 668	Виктора Януковича
+T36	PERSON 924 933	Януковича
+R20	ALTERNATIVE_NAME Arg1:T1 Arg2:T3	
+R33	ALTERNATIVE_NAME Arg1:T27 Arg2:T36	

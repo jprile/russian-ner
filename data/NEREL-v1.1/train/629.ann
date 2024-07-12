@@ -1,0 +1,13 @@
+T3	PERSON 19 28	В.Токарев
+T6	PERSON 74 90	Владимира Когана
+T8	PERSON 165 181	Владимир Токарев
+T12	PERSON 393 403	В.Токарева
+T13	PERSON 439 452	Игорь Слюняев
+T15	PERSON 632 653	Александра Бравермана
+T19	PERSON 841 855	Владимир Коган
+T23	PERSON 941 953	Игорь Донато
+T25	PERSON 1046 1064	Владимиру Токареву
+T35	PERSON 799 812	Игорь Шувалов
+R4	ALTERNATIVE_NAME Arg1:T3 Arg2:T8	
+R6	ALTERNATIVE_NAME Arg1:T8 Arg2:T12	
+R18	ABBREVIATION Arg1:T25 Arg2:T38	

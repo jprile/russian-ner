@@ -1,0 +1,17 @@
+T1	PERSON 0 5	Путин
+T3	PERSON 34 48	Владимир Путин
+T4	PERSON 51 69	Мигель Диас-Канель
+T7	PERSON 97 111	Владимир Путин
+T9	PERSON 168 186	Мигелю Диас-Канелю
+T11	PERSON 258 263	Путин
+T12	PERSON 290 302	Раулю Кастро
+T14	PERSON 424 442	Мигеля Диас-Канеля
+T16	PERSON 588 593	Путин
+T20	PERSON 904 916	Раулю Кастро
+T23	PERSON 1065 1070	Путин
+T24	PERSON 1087 1099	Рауль Кастро
+T28	PERSON 1438 1450	Рауля Кастро
+T32	PERSON 1616 1635	Мигеля Диаса-Канеля
+T35	PERSON 1678 1690	Рауля Кастро
+R2	ALTERNATIVE_NAME Arg1:T1 Arg2:T3	
+R44	ALTERNATIVE_NAME Arg1:T7 Arg2:T11	

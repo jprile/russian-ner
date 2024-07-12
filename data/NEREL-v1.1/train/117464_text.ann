@@ -1,0 +1,8 @@
+T10	PERSON 185 200	Василий Тарасюк
+T20	PERSON 814 827	Игорь Лебедев
+T21	PERSON 982 1000	Василий Михайлович
+T27	PERSON 1155 1170	Галина Лякишева
+T28	PERSON 1173 1188	Василий Тарасюк
+T51	PERSON 441 454	Шани Гамлиэль
+R25	ALTERNATIVE_NAME Arg1:T10 Arg2:T21	
+R27	ALTERNATIVE_NAME Arg1:T21 Arg2:T28	

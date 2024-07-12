@@ -1,0 +1,18 @@
+T1	PERSON 0 15	Дженнифер Лопес
+T3	PERSON 64 79	Дженнифер Лопес
+T4	PERSON 80 92	Мишель Обама
+T5	PERSON 94 119	Гурбангулы Бердымухамедов
+T6	PERSON 122 133	Барак Обама
+T8	PERSON 151 166	Дженнифер Лопес
+T13	PERSON 364 390	Гурбангулы Бердымухамедова
+T15	PERSON 497 502	Лопес
+T18	PERSON 599 604	Лопес
+T23	PERSON 988 1002	Тор Халворссен
+T24	PERSON 1004 1027	Thor Halvorssen Mendoza
+T30	PERSON 1389 1398	Дженнифер
+T32	PERSON 1606 1611	Лопес
+T44	PERSON 1121 1126	Лопес
+R13	ALTERNATIVE_NAME Arg1:T8 Arg2:T15	
+R19	ALTERNATIVE_NAME Arg1:T23 Arg2:T24	
+R25	ALTERNATIVE_NAME Arg1:T44 Arg2:T30	
+T50	PERSON 1688 1693	Лопес

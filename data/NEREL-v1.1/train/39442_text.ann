@@ -1,0 +1,7 @@
+T1	PERSON 0 14	Мухаммед Мурси
+T4	PERSON 74 88	Мухаммед Мурси
+T9	PERSON 234 249	Мухаммеда Мурси
+T14	PERSON 569 574	Мурси
+T18	PERSON 875 880	Мурси
+T32	PERSON 1575 1580	Мурси
+R20	ALTERNATIVE_NAME Arg1:T9 Arg2:T14	

@@ -1,0 +1,9 @@
+T2	PERSON 0 8	К.Лагард
+T4	PERSON 61 75	Кристин Лагард
+T11	PERSON 250 258	К.Лагард
+T15	PERSON 316 324	К.Лагард
+T20	PERSON 460 478	Доминик Стросс-Кан
+T24	PERSON 627 635	К.Лагард
+T26	PERSON 700 716	Агустин Карстенс
+T30	PERSON 847 855	К.Лагард
+R10	ALTERNATIVE_NAME Arg1:T4 Arg2:T11	

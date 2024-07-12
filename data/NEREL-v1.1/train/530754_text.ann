@@ -1,0 +1,9 @@
+T2	PERSON 18 30	Камерон Диас
+T3	PERSON 51 63	Камерон Диас
+T5	PERSON 97 109	Кэмерон Диаз
+T10	PERSON 242 255	Бенджи Мэдден
+T12	PERSON 293 300	Рэддикс
+T13	PERSON 302 315	Raddix Madden
+T14	PERSON 485 497	Кэмерон Диаз
+T18	PERSON 594 608	Бенджи Мэддена
+R22	ALTERNATIVE_NAME Arg1:T12 Arg2:T13	

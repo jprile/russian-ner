@@ -1,0 +1,10 @@
+T1	PERSON 35 48	Уитни Хьюстон
+T2	PERSON 59 72	Уитни Хьюстон
+T3	PERSON 74 87	Уитни Хьюстон
+T5	PERSON 132 141	Пол Хьюбл
+T6	PERSON 293 300	Хьюстон
+T10	PERSON 405 410	Хьюбл
+T11	PERSON 522 529	Хьюстон
+T15	PERSON 839 852	Уитни Хьюстон
+R6	ALTERNATIVE_NAME Arg1:T3 Arg2:T6	
+R11	ALTERNATIVE_NAME Arg1:T5 Arg2:T10	

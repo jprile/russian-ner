@@ -1,0 +1,8 @@
+T2	PERSON 9 24	Артемий Лебедев
+T3	PERSON 53 68	Артемий Лебедев
+T7	PERSON 196 211	Артемий Лебедев
+T10	PERSON 306 314	Лебедева
+T15	PERSON 644 651	Артемий
+T22	PERSON 786 793	Лебедев
+R14	ALTERNATIVE_NAME Arg1:T7 Arg2:T10	
+R18	ALTERNATIVE_NAME Arg1:T10 Arg2:T15	

@@ -1,0 +1,12 @@
+T2	PERSON 51 76	Луис Инасиу Лула да Силва
+T4	PERSON 101 127	Луису Инасиу Луле да Силве
+T9	PERSON 390 398	Да Силва
+T12	PERSON 547 558	Ракель Додж
+T13	PERSON 560 572	Raquel Dodge
+T15	PERSON 724 732	да Силву
+T18	PERSON 877 890	Лула да Силва
+T27	PERSON 1301 1314	Лула да Силва
+T29	PERSON 1546 1571	Луис Инасиу Лула да Силва
+R10	ALTERNATIVE_NAME Arg1:T4 Arg2:T9	
+R13	ALTERNATIVE_NAME Arg1:T12 Arg2:T13	
+R32	ALTERNATIVE_NAME Arg1:T9 Arg2:T15	

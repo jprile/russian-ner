@@ -1,0 +1,9 @@
+T2	PERSON 17 31	Серены Уильямс
+T4	PERSON 57 71	Серена Уильямс
+T6	PERSON 163 177	Серена Уильямс
+T8	PERSON 194 209	Ангелике Кербер
+T13	PERSON 340 346	Серена
+T19	PERSON 694 707	Маргарет Корт
+T24	PERSON 788 794	Кербер
+R21	ALTERNATIVE_NAME Arg1:T6 Arg2:T13	
+R23	ALTERNATIVE_NAME Arg1:T8 Arg2:T24	

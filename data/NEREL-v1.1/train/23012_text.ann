@@ -1,0 +1,10 @@
+T1	PERSON 0 5	Путин
+T6	PERSON 58 72	Владимир Путин
+T11	PERSON 240 254	Владимир Путин
+T21	PERSON 667 673	Путина
+T27	PERSON 965 978	Димы Яковлева
+T3	PERSON 23 36	Димы Яковлева
+T8	PERSON 102 115	Димы Яковлева
+T13	PERSON 473 486	Димы Яковлева
+T42	PERSON 1271 1282	Магнитского
+R21	ALTERNATIVE_NAME Arg1:T11 Arg2:T21	

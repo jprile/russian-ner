@@ -1,0 +1,11 @@
+T13	PERSON 266 287	Димитриоса Пагуртзиса
+T14	PERSON 289 309	Dimitrios Pagourtzis
+T17	PERSON 428 441	Эда Гонзалеса
+T21	PERSON 843 853	Марк Хенри
+T25	PERSON 1284 1296	Уолтер Браун
+T28	PERSON 1476 1495	Димитриос Пагуртзис
+T35	PERSON 2098 2111	Дональд Трамп
+T39	PERSON 2453 2458	Трамп
+T33	PERSON 1903 1916	Эда Гонсалеса
+R6	ALTERNATIVE_NAME Arg1:T13 Arg2:T14	
+R20	ALTERNATIVE_NAME Arg1:T35 Arg2:T39	

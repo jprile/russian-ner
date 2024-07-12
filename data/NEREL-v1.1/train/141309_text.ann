@@ -1,0 +1,4 @@
+T4	PERSON 96 108	Ву Сяньгуань
+T8	PERSON 324 333	Сяньгуань
+T20	PERSON 1151 1162	Дэна Цзивея
+R14	ALTERNATIVE_NAME Arg1:T4 Arg2:T8	

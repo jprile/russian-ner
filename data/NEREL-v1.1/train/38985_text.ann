@@ -1,0 +1,14 @@
+T1	PERSON 0 15	Нельсон Мандела
+T2	PERSON 40 55	Нельсон Мандела
+T5	PERSON 142 158	Нельсона Манделы
+T8	PERSON 319 331	Мак Махарадж
+T9	PERSON 360 376	Нельсона Манделы
+T11	PERSON 465 480	Нельсон Мандела
+T17	PERSON 787 812	Нельсон Ролилахла Мандела
+T15	PERSON 732 739	Манделы
+T46	PERSON 1048 1063	Нельсон Мандела
+T47	PERSON 1083 1089	Мадиба
+R20	ALTERNATIVE_NAME Arg1:T11 Arg2:T15	
+R21	ALTERNATIVE_NAME Arg1:T15 Arg2:T17	
+R27	ALTERNATIVE_NAME Arg1:T46 Arg2:T47	
+T44	PERSON 1012 1023	Нобелевской

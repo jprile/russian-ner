@@ -1,0 +1,15 @@
+T4	PERSON 32 46	Виталий Чуркин
+T5	PERSON 48 62	Виталий Чуркин
+T13	PERSON 226 240	Виталий Чуркин
+T16	PERSON 330 336	Чуркин
+T20	PERSON 428 434	Чуркин
+T30	PERSON 739 753	Владимир Путин
+T31	PERSON 806 821	Виталия Чуркина
+T32	PERSON 895 902	Чуркина
+T35	PERSON 942 956	Дмитрий Песков
+T43	PERSON 1121 1138	Антониу Гутерриша
+T48	PERSON 1254 1268	Виталий Чуркин
+T55	PERSON 1379 1393	Виталий Чуркин
+T61	PERSON 1486 1502	Андрей Вышинский
+R43	ALTERNATIVE_NAME Arg1:T13 Arg2:T16	
+R44	ALTERNATIVE_NAME Arg1:T31 Arg2:T32	

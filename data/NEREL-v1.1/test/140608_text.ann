@@ -1,0 +1,14 @@
+T4	PERSON 111 120	Биткоином
+T5	PERSON 160 176	Биткоин Олегович
+T10	PERSON 270 274	Олег
+T11	PERSON 300 307	Биткоин
+T13	PERSON 619 623	Даша
+T15	PERSON 769 775	Сатоши
+T22	PERSON 1259 1266	Люцифер
+T23	PERSON 1297 1306	Вольдемар
+T30	PERSON 26 35	Биткоином
+T26	PERSON 1346 1360	БОЧ рВФ 260602
+T39	PERSON 1376 1461	Биологический объект человека рода Ворониных — Фроловых, родившийся 26 июня 2002 года
+R18	ABBREVIATION Arg1:T39 Arg2:T26	
+R19	ALTERNATIVE_NAME Arg1:T4 Arg2:T5	
+R16	ALTERNATIVE_NAME Arg1:T5 Arg2:T11	

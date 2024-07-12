@@ -1,0 +1,7 @@
+T1	PERSON 20 33	Уитни Хьюстон
+T4	PERSON 114 127	Уитни Хьюстон
+T5	PERSON 273 286	Уитни Хьюстон
+T10	PERSON 490 503	Уитни Хьюстон
+T14	PERSON 650 665	Патриша Хьюстон
+T22	PERSON 642 649	Хьюстон
+R12	ALTERNATIVE_NAME Arg1:T10 Arg2:T22	

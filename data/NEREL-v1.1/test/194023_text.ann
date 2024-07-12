@@ -1,0 +1,8 @@
+T1	PERSON 0 15	Дженнифер Лопес
+T3	PERSON 48 63	Дженнифер Лопес
+T5	PERSON 115 130	Дженнифер Лопес
+T8	PERSON 215 228	Питера Сигала
+T9	PERSON 239 248	Дженнифер
+T11	PERSON 330 345	Дженнифер Лопес
+T13	PERSON 385 394	Bad Bunny
+R11	ALTERNATIVE_NAME Arg1:T5 Arg2:T9	

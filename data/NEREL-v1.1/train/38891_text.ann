@@ -1,0 +1,17 @@
+T1	PERSON 0 18	Джеймс Гандольфини
+T4	PERSON 60 78	Джеймс Гандольфини
+T6	PERSON 116 134	Джеймс Гандольфини
+T8	PERSON 190 202	Тони Сопрано
+T14	PERSON 348 361	Мара Микалиан
+T16	PERSON 441 452	Гандольфини
+T18	PERSON 546 563	Теннесси Уильямса
+T21	PERSON 593 605	Тони Сопрано
+T22	PERSON 789 801	Тони Сопрано
+T23	PERSON 818 825	Кармелу
+T25	PERSON 1073 1084	Гандольфини
+T32	PERSON 1331 1342	Гандольфини
+T20	PERSON 606 617	Гандольфини
+R25	ALTERNATIVE_NAME Arg1:T6 Arg2:T16	
+T49	PERSON 1263 1279	Бёрт Уандерстоун
+T50	PERSON 1297 1313	Burt Wonderstone
+R46	ALTERNATIVE_NAME Arg1:T49 Arg2:T50	

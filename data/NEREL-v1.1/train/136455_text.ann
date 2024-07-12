@@ -1,0 +1,10 @@
+T1	PERSON 0 18	Эммерсон Мнангагва
+T8	PERSON 225 239	Роберта Мугабе
+T10	PERSON 273 282	Мнангагва
+T13	PERSON 382 387	Грейс
+T18	PERSON 617 626	Мнангагва
+T21	PERSON 51 69	Эммерсон Мнангагва
+T24	PERSON 70 88	Эммерсон Мнангагва
+T31	PERSON 363 369	Мугабе
+R18	ALTERNATIVE_NAME Arg1:T24 Arg2:T10	
+R19	ALTERNATIVE_NAME Arg1:T8 Arg2:T31	

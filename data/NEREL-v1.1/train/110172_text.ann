@@ -1,0 +1,12 @@
+T3	PERSON 21 32	Жа Жа Габор
+T6	PERSON 59 70	Жа Жа Габор
+T11	PERSON 162 173	Жа Жа Габор
+T12	PERSON 178 183	Габор
+T19	PERSON 282 287	Габор
+T26	PERSON 647 652	Габор
+T27	PERSON 730 741	Жа Жа Габор
+T35	PERSON 880 891	Джейн Аврил
+T38	PERSON 916 921	Габор
+T42	PERSON 966 979	Орсона Уэллса
+T51	PERSON 1163 1179	Франческа Хилтон
+R29	ALTERNATIVE_NAME Arg1:T11 Arg2:T12	

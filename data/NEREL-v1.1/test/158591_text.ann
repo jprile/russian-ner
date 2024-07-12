@@ -1,0 +1,6 @@
+T2	PERSON 14 23	Медведева
+T3	PERSON 41 55	Владимир Путин
+T4	PERSON 58 74	Дмитрий Медведев
+T8	PERSON 125 144	Дмитрием Медведевым
+T11	PERSON 220 236	Владимира Путина
+R4	ALTERNATIVE_NAME Arg1:T2 Arg2:T4	

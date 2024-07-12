@@ -1,0 +1,8 @@
+T2	PERSON 8 23	Вадим Тюльпанов
+T3	PERSON 38 53	Вадим Тюльпанов
+T11	PERSON 171 186	Вадим Тюльпанов
+T15	PERSON 239 256	Вадим Альбертович
+T20	PERSON 514 530	Вячеслав Макаров
+T23	PERSON 621 636	Вадим Тюльпанов
+R27	ALTERNATIVE_NAME Arg1:T11 Arg2:T15	
+R30	ALTERNATIVE_NAME Arg1:T15 Arg2:T23	

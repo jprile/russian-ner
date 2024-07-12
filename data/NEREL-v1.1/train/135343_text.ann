@@ -1,0 +1,6 @@
+T9	PERSON 192 212	Элиана Мария Кравчук
+T10	PERSON 214 235	Eliana María Krawczyk
+T11	PERSON 306 320	Элиана Кравчук
+T21	PERSON 904 918	Элиана Кравчук
+R2	ALTERNATIVE_NAME Arg1:T9 Arg2:T10	
+R6	ALTERNATIVE_NAME Arg1:T9 Arg2:T11	

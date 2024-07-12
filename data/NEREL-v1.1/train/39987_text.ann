@@ -1,0 +1,25 @@
+T1	PERSON 5 17	Политковской
+T2	PERSON 85 102	Анны Политковской
+T5	PERSON 163 180	Анны Политковской
+T10	PERSON 372 376;384 396	Вера Политковские
+T11	PERSON 379 396	Илья Политковские
+T13	PERSON 603 615	Политковской
+T15	PERSON 636 653	Рустаму Махмудову
+T20	PERSON 876 893	Анна Политковская
+T27	PERSON 1368 1385	Анна Политковская
+T29	PERSON 1417 1433	Владимира Путина
+T32	PERSON 1491 1503	Политковская
+T33	PERSON 1505 1523	Надежда Прусенкова
+T35	PERSON 1677 1681	Анны
+T36	PERSON 1693 1704	Прусенковой
+T37	PERSON 1807 1818	Прусенковой
+T38	PERSON 1849 1866	Анны Политковской
+T42	PERSON 2038 2057	Дмитрий Павлюченков
+T43	PERSON 2132 2142	Павлюченко
+T45	PERSON 2248 2265	Анны Политковской
+T75	PERSON 2075 2087	Политковской
+R1	ALTERNATIVE_NAME Arg1:T1 Arg2:T2	
+R44	ALTERNATIVE_NAME Arg1:T32 Arg2:T35	
+R45	ALTERNATIVE_NAME Arg1:T27 Arg2:T32	
+R46	ALTERNATIVE_NAME Arg1:T33 Arg2:T36	
+R50	ALTERNATIVE_NAME Arg1:T42 Arg2:T43	

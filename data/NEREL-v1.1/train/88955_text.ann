@@ -1,0 +1,7 @@
+T2	PERSON 25 41	Франсиско Флорес
+T3	PERSON 71 87	Франсиско Флорес
+T5	PERSON 116 132	Франcиско Флорес
+T8	PERSON 191 197	Флорес
+T18	PERSON 623 629	Флорес
+R20	ALTERNATIVE_NAME Arg1:T5 Arg2:T8	
+R28	ALTERNATIVE_NAME Arg1:T3 Arg2:T18	

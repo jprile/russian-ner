@@ -1,0 +1,19 @@
+T1	PERSON 6 17	Ким Чен Ына
+T5	PERSON 118 130	Ким Чон Нама
+T8	PERSON 150 161	Ким Чен Ына
+T10	PERSON 264 276	Ким Чон Наму
+T15	PERSON 542 553	Ким Чон Нам
+T18	PERSON 673 684	Ким Чон Нам
+T26	PERSON 944 947	Ким
+T27	PERSON 962 974	Ким Чон Нама
+T37	PERSON 1213 1224	Ким Чон Нам
+T39	PERSON 1240 1251	Ким Чен Ына
+T42	PERSON 1298 1309	Ким Чен Ира
+T46	PERSON 1446 1457	Ким Чон Нам
+T47	PERSON 1483 1496	Чан Сон Тхэку
+T50	PERSON 1631 1642	Ким Чон Нам
+T52	PERSON 0 17	Брата Ким Чен Ына
+T67	PERSON 1093 1122	брата северокорейского лидера
+R41	ALTERNATIVE_NAME Arg1:T5 Arg2:T10	
+R42	ALTERNATIVE_NAME Arg1:T10 Arg2:T15	
+R45	ALTERNATIVE_NAME Arg1:T18 Arg2:T26	

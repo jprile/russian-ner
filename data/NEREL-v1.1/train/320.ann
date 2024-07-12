@@ -1,0 +1,10 @@
+T2	PERSON 8 17	Д.Петреус
+T5	PERSON 55 68	Дэвид Петреус
+T12	PERSON 216 225	Д.Петреус
+T16	PERSON 329 342	Леона Панетту
+T18	PERSON 422 436	Роберта Гейтса
+T20	PERSON 438 447	Д.Петреус
+T24	PERSON 546 555	Д.Петреус
+T28	PERSON 660 670	Джон Аллен
+R5	ALTERNATIVE_NAME Arg1:T2 Arg2:T5	
+R12	ALTERNATIVE_NAME Arg1:T5 Arg2:T12	

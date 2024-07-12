@@ -1,0 +1,6 @@
+T2	PERSON 64 80	Кристофер Дорнер
+T4	PERSON 168 184	Кристофер Дорнер
+T8	PERSON 264 280	Кристофер Дорнер
+T11	PERSON 514 521	Дорнера
+T20	PERSON 760 766	Дорнер
+R16	ALTERNATIVE_NAME Arg1:T8 Arg2:T11	

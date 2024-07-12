@@ -1,0 +1,8 @@
+T1	PERSON 0 11	Рууд Гуллит
+T3	PERSON 80 91	Рууд Гуллит
+T6	PERSON 198 205	Гуллита
+T16	PERSON 427 441	Рамзан Кадыров
+T19	PERSON 489 497	Гуллитом
+T25	PERSON 611 617	Гуллит
+T31	PERSON 778 784	Гуллит
+R3	ALTERNATIVE_NAME Arg1:T3 Arg2:T6	

@@ -1,0 +1,20 @@
+T2	PERSON 21 34	Мария Алёхина
+T3	PERSON 52 65	Мария Алёхина
+T5	PERSON 328 335	Алёхина
+T8	PERSON 451 459	Алёхиной
+T9	PERSON 496 503	Алёхина
+T16	PERSON 791 804	Мария Алехина
+T17	PERSON 807 828	Надежда Толоконникова
+T24	PERSON 1186 1193	Алёхину
+T28	PERSON 1358 1377	Екатерина Самуцевич
+T30	PERSON 1501 1514	Толоконникова
+T31	PERSON 1614 1621	Алёхина
+T33	PERSON 1634 1655	Надежда Толоконникова
+T38	PERSON 83 96	Мария Алёхина
+T55	PERSON 901 917	Христа Спасителя
+T56	PERSON 985 991	Путина
+T57	PERSON 973 983	Богородица
+T58	PERSON 1013 1027	Владимир Путин
+R8	ALTERNATIVE_NAME Arg1:T38 Arg2:T5	
+R39	ALTERNATIVE_NAME Arg1:T56 Arg2:T58	
+R58	ALTERNATIVE_NAME Arg1:T30 Arg2:T33	

@@ -1,0 +1,7 @@
+T2	PERSON 31 43	Джина Хаспел
+T3	PERSON 80 92	Джину Хаспел
+T8	PERSON 187 193	Хаспел
+T14	PERSON 435 447	Джина Хаспел
+T16	PERSON 475 487	Майка Помпео
+T26	PERSON 719 725	Хаспел
+R11	ALTERNATIVE_NAME Arg1:T3 Arg2:T8	

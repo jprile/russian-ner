@@ -1,0 +1,8 @@
+T2	PERSON 10 24	Аарон Эрнандес
+T10	PERSON 397 413	Аарона Эрнандеса
+T12	PERSON 445 457	Одина Ллойда
+T18	PERSON 595 604	Эрнандеса
+T19	PERSON 658 667	Эрнандеса
+T20	PERSON 737 745	Эрнандес
+T23	PERSON 985 994	Эрнандеса
+R15	ALTERNATIVE_NAME Arg1:T10 Arg2:T18	

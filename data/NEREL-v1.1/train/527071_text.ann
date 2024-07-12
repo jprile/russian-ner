@@ -1,0 +1,8 @@
+T2	PERSON 51 66	Первез Мушарраф
+T6	PERSON 143 160	Первезу Мушаррафу
+T9	PERSON 306 314	Мушарраф
+T17	PERSON 736 745	Мушаррафа
+T26	PERSON 1230 1238	Мушарраф
+T42	PERSON 285 304	Вакара Ахмада Сэтха
+T52	PERSON 833 842	Мушаррафа
+R21	ALTERNATIVE_NAME Arg1:T6 Arg2:T9	

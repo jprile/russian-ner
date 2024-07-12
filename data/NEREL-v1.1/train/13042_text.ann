@@ -1,0 +1,11 @@
+T1	PERSON 0 17	Габриэль Гиффордс
+T5	PERSON 111 128	Габриэль Гиффордс
+T6	PERSON 228 236	Гиффордс
+T8	PERSON 383 391	Гиффордс
+T13	PERSON 588 605	Габриэль Гиффордс
+T14	PERSON 772 780	Гиффордс
+T17	PERSON 1074 1089	Джареду Лафнеру
+T18	PERSON 1138 1146	Гиффордс
+T21	PERSON 1286 1292	Лафнер
+R4	ALTERNATIVE_NAME Arg1:T5 Arg2:T6	
+R15	ALTERNATIVE_NAME Arg1:T17 Arg2:T21	

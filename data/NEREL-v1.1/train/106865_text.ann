@@ -1,0 +1,9 @@
+T1	PERSON 63 85	Китом Лэмонтом Скоттом
+T5	PERSON 238 260	Китом Лэмонтом Скоттом
+T9	PERSON 662 667	Скотт
+T12	PERSON 818 823	Скотт
+T21	PERSON 1214 1224	Кэм Ньютон
+T23	PERSON 1313 1333	Мартина Лютера Кинга
+T24	PERSON 1387 1393	Скотта
+T25	PERSON 1538 1543	Скотт
+R15	ALTERNATIVE_NAME Arg1:T5 Arg2:T9	

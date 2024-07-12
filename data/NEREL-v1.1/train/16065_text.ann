@@ -1,0 +1,18 @@
+T5	PERSON 150 161	Барак Обама
+T6	PERSON 214 228	Владимир Путин
+T7	PERSON 230 244	Владимир Путин
+T13	PERSON 442 453	Сергей Брин
+T16	PERSON 496 510	Алишер Усманов
+T18	PERSON 553 564	Ху Дзиньтао
+T19	PERSON 567 581	Ангела Меркель
+T23	PERSON 718 728	Билл Гейтс
+T26	PERSON 754 761	Абдулла
+T29	PERSON 818 830	Бен Бернанке
+T33	PERSON 916 930	Марк Цукерберг
+T36	PERSON 977 991	Владимир Путин
+T39	PERSON 1250 1259	Медведева
+T40	PERSON 1329 1345	Дмитрий Медведев
+T56	PERSON 776 784	Бенедикт
+T60	PERSON 1224 1229	Путин
+R24	ALTERNATIVE_NAME Arg1:T36 Arg2:T60	
+R25	ALTERNATIVE_NAME Arg1:T39 Arg2:T40	

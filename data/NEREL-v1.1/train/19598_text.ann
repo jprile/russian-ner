@@ -1,0 +1,10 @@
+T1	PERSON 6 25	Александр Белявский
+T4	PERSON 59 88	Александр Борисович Белявский
+T8	PERSON 427 436	Белявский
+T12	PERSON 547 566	Александр Белявский
+T24	PERSON 938 949	Бенни Хилла
+T26	PERSON 989 993	Саша
+T31	PERSON 1420 1429	Белявским
+R4	ALTERNATIVE_NAME Arg1:T1 Arg2:T4	
+R14	ALTERNATIVE_NAME Arg1:T4 Arg2:T8	
+R15	ALTERNATIVE_NAME Arg1:T8 Arg2:T12	

@@ -1,0 +1,10 @@
+T1	PERSON 0 16	Джохару Царнаеву
+T2	PERSON 51 67	Джохару Цорнаеву
+T4	PERSON 158 165	Царнаев
+T13	PERSON 1138 1155	Джохароа Царнаева
+T14	PERSON 1158 1166	Тамерлан
+T18	PERSON 275 283	Царнаеву
+T25	PERSON 607 615	Царнаевы
+T27	PERSON 711 719	Царнаевы
+T29	PERSON 886 895	Царнаевых
+R7	ALTERNATIVE_NAME Arg1:T2 Arg2:T4	

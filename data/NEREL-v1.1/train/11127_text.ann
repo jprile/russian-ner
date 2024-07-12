@@ -1,0 +1,10 @@
+T5	PERSON 103 126	Мейрид Корриган Магуайр
+T20	PERSON 677 684	Магуайр
+T25	PERSON 819 826	Магуайр
+T27	PERSON 974 997	Мейрид Корриган Магуайр
+T22	PERSON 1083 1090	Магуайр
+R3	ALTERNATIVE_NAME Arg1:T5 Arg2:T20	
+R18	ALTERNATIVE_NAME Arg1:T25 Arg2:T27	
+T47	PERSON 30 41	Нобелевской
+T49	PERSON 79 90	Нобелевской
+T51	PERSON 1100 1111	Нобелевскую

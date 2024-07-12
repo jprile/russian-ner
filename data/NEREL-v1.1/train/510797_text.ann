@@ -1,0 +1,10 @@
+T2	PERSON 12 27	Николай Булакин
+T3	PERSON 40 55	Николай Булакин
+T5	PERSON 88 103	Николай Булакин
+T9	PERSON 182 189	Булакин
+T16	PERSON 305 323	Николай Генрихович
+T21	PERSON 587 602	Николай Булакин
+T41	PERSON 752 759	Булакин
+R22	ALTERNATIVE_NAME Arg1:T5 Arg2:T9	
+R24	ALTERNATIVE_NAME Arg1:T9 Arg2:T16	
+R27	ALTERNATIVE_NAME Arg1:T21 Arg2:T41	

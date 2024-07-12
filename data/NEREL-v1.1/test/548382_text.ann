@@ -1,0 +1,13 @@
+T1	PERSON 10 17	Кузя УО
+T6	PERSON 77 95	Константин Рябинов
+T7	PERSON 111 118	Кузя УО
+T10	PERSON 274 290	Ксению Кислицыну
+T11	PERSON 293 324	Константин Валентинович Рябинов
+T14	PERSON 364 374	Егор Летов
+T15	PERSON 376 390	Андрей Бабенко
+T16	PERSON 393 411	Константин Рябинов
+T19	PERSON 456 463	Кузя УО
+T24	PERSON 743 750	Летовым
+R2	ALTERNATIVE_NAME Arg1:T6 Arg2:T7	
+R25	ALTERNATIVE_NAME Arg1:T6 Arg2:T11	
+T35	PERSON 649 655	Кузьма

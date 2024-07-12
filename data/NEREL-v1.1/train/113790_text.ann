@@ -1,0 +1,12 @@
+T1	PERSON 0 18	Дениса Вороненкова
+T3	PERSON 39 51	Павел Паршов
+T5	PERSON 124 142	Дениса Вороненкова
+T8	PERSON 176 202	Павел Александрович Паршов
+T17	PERSON 599 611	Денис Паршов
+T21	PERSON 725 730	Павел
+T26	PERSON 949 967	Дениса Вороненкова
+T42	PERSON 287 293	Паршов
+T57	PERSON 1101 1111	Пушкинской
+T62	PERSON 1083 1098	Тараса Шевченко
+R5	ALTERNATIVE_NAME Arg1:T3 Arg2:T8	
+R9	ALTERNATIVE_NAME Arg1:T8 Arg2:T42	

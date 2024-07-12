@@ -1,0 +1,7 @@
+T3	PERSON 39 54	Оливер Иванович
+T17	PERSON 602 615	Небойша Влаич
+T18	PERSON 633 641	Иванович
+T24	PERSON 930 938	Иванович
+T27	PERSON 105 120	Оливер Иванович
+T30	PERSON 55 70	Оливер Иванович
+R23	ALTERNATIVE_NAME Arg1:T27 Arg2:T18	

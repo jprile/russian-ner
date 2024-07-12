@@ -1,0 +1,27 @@
+T1	PERSON 0 9	Порошенко
+T2	PERSON 45 55	Афанасьева
+T3	PERSON 58 67	Солошенко
+T6	PERSON 87 101	Пётр Порошенко
+T10	PERSON 202 221	Геннадия Афанасьева
+T11	PERSON 224 238	Юрия Солошенко
+T14	PERSON 283 292	Порошенко
+T20	PERSON 506 515	Солошенко
+T21	PERSON 518 528	Афанасьева
+T23	PERSON 559 577	Геннадий Афанасьев
+T28	PERSON 749 760	Олег Сенцов
+T29	PERSON 774 793	Александр Кольченко
+T31	PERSON 806 820	Юрий Солошенко
+T39	PERSON 1000 1009	Солошенко
+T45	PERSON 1201 1214	Олега Сенцова
+T46	PERSON 1216 1236	Александра Кольченко
+T47	PERSON 1238 1257	Геннадия Афанасьева
+T48	PERSON 1260 1274	Юрия Солошенко
+T61	PERSON 472 485	Павел Климкин
+T71	PERSON 988 997	Афанасьев
+T74	PERSON 1323 1339	Надежда Савченко
+R6	ALTERNATIVE_NAME Arg1:T2 Arg2:T10	
+R7	ALTERNATIVE_NAME Arg1:T3 Arg2:T11	
+R9	ALTERNATIVE_NAME Arg1:T1 Arg2:T6	
+R10	ALTERNATIVE_NAME Arg1:T6 Arg2:T14	
+R29	ALTERNATIVE_NAME Arg1:T10 Arg2:T21	
+R30	ALTERNATIVE_NAME Arg1:T11 Arg2:T20	

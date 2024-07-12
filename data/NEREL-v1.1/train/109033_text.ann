@@ -1,0 +1,3 @@
+T1	PERSON 0 5	Путин
+T8	PERSON 120 134	Владимир Путин
+R9	ALTERNATIVE_NAME Arg1:T1 Arg2:T8	

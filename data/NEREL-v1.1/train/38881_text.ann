@@ -1,0 +1,15 @@
+T1	PERSON 0 8	Медведев
+T3	PERSON 26 33	Якунина
+T4	PERSON 45 53	Мишарина
+T5	PERSON 57 72	Владимир Якунин
+T6	PERSON 73 90	Александр Мишарин
+T8	PERSON 159 176	Владимира Якунина
+T9	PERSON 195 214	Александра Мишарина
+T10	PERSON 232 238	Якунин
+T14	PERSON 351 366	Владимир Якунин
+T17	PERSON 446 463	Александр Мишарин
+T28	PERSON 1005 1012	Якунина
+T32	PERSON 109 125	Дмитрий Медведев
+R8	ALTERNATIVE_NAME Arg1:T3 Arg2:T5	
+R9	ALTERNATIVE_NAME Arg1:T4 Arg2:T6	
+R10	ALTERNATIVE_NAME Arg1:T1 Arg2:T32	

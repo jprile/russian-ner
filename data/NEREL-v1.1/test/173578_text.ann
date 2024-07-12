@@ -1,0 +1,4 @@
+T20	PERSON 597 612	Кристофер Селиз
+T21	PERSON 614 634	Christopher A. Celiz
+T32	PERSON 1111 1128	Забиулла Муджахид
+R1	ALTERNATIVE_NAME Arg1:T20 Arg2:T21	

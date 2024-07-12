@@ -1,0 +1,25 @@
+T12	PERSON 234 249	Сергей Скрипаль
+T13	PERSON 261 265	Юлия
+T22	PERSON 569 586	Сергей Рахманинов
+T23	PERSON 588 603	Пётр Чайковский
+T24	PERSON 606 624	Дмитрий Шостакович
+T26	PERSON 677 688	Гилл Болтон
+T27	PERSON 690 701	Gill Bolton
+T30	PERSON 866 878	Яна Флеминга
+T32	PERSON 907 920	Джеймса Бонда
+T34	PERSON 1167 1171	Глин
+T42	PERSON 1422 1436	Руслан Боширов
+T43	PERSON 1439 1455	Александр Петров
+T44	PERSON 1485 1501	Руслане Боширове
+T47	PERSON 1541 1570	Анатолия Владимировича Чепигу
+T49	PERSON 1591 1605	Владимир Путин
+T50	PERSON 1613 1621	Скрипаля
+T53	PERSON 59 74	Святого Мартина
+T54	PERSON 97 106	St Martin
+T62	PERSON 321 336	Святого Мартина
+T63	PERSON 348 357	St Martin
+T19	PERSON 396 404	Скрипаля
+R11	ALTERNATIVE_NAME Arg1:T53 Arg2:T54	
+R27	ALTERNATIVE_NAME Arg1:T62 Arg2:T63	
+R33	ALTERNATIVE_NAME Arg1:T26 Arg2:T27	
+R61	ALTERNATIVE_NAME Arg1:T44 Arg2:T47	

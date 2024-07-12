@@ -1,0 +1,12 @@
+T1	PERSON 0 12	Сергей Бубка
+T3	PERSON 58 70	Сергей Бубка
+T7	PERSON 242 254	Сергей Бубка
+T11	PERSON 355 360	Бубка
+T12	PERSON 458 468	Жака Рогге
+T15	PERSON 560 565	Бубка
+T21	PERSON 794 803	Томас Бах
+T23	PERSON 817 829	Нг Сер Мианг
+T26	PERSON 875 889	Ричард Каррион
+T29	PERSON 945 956	Чинг-Куо Ву
+T32	PERSON 1006 1019	Денис Освальд
+R22	ALTERNATIVE_NAME Arg1:T7 Arg2:T11	

@@ -1,0 +1,5 @@
+T1	PERSON 0 10	Элтон Джон
+T2	PERSON 41 51	Элтон Джон
+T4	PERSON 80 90	Элтон Джон
+T19	PERSON 630 634	Джон
+R14	ALTERNATIVE_NAME Arg1:T4 Arg2:T19	

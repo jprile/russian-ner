@@ -1,0 +1,15 @@
+T1	PERSON 10 22	Ратко Младич
+T4	PERSON 85 98	Бориса Тадича
+T6	PERSON 176 189	Ратко Младича
+T7	PERSON 192 204	Ратко Младич
+T12	PERSON 381 387	Младич
+T14	PERSON 499 510	Борис Тадич
+T15	PERSON 518 531	Ратко Младича
+T19	PERSON 791 798	Младичу
+T23	PERSON 901 914	Серж Браммерц
+T25	PERSON 990 997	Младича
+T26	PERSON 1024 1038	Горана Хаджича
+T30	PERSON 1229 1236	Младича
+T41	PERSON 217 223	Младич
+R7	ALTERNATIVE_NAME Arg1:T6 Arg2:T7	
+R8	ALTERNATIVE_NAME Arg1:T7 Arg2:T41	

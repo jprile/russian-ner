@@ -1,0 +1,24 @@
+T1	PERSON 0 17	Геннадий Онищенко
+T2	PERSON 39 56	Геннадий Онищенко
+T4	PERSON 108 125	Геннадий Онищенко
+T7	PERSON 229 246	Дмитрия Медведева
+T9	PERSON 305 316	Анна Попова
+T12	PERSON 388 404	Наталья Тимакова
+T13	PERSON 458 468	Медведевым
+T14	PERSON 481 490	Тимаковой
+T15	PERSON 554 562	Онищенко
+T16	PERSON 565 575	Медведевым
+T19	PERSON 683 691	Онищенко
+T24	PERSON 906 920	Ольгой Голодец
+T25	PERSON 930 943	Ольга Голодец
+T26	PERSON 980 997	Геннадий Онищенко
+T27	PERSON 1025 1033	Онищенко
+T28	PERSON 1067 1083	Наталья Тимакова
+T34	PERSON 1337 1354	Геннадий Онищенко
+T39	PERSON 1586 1594	Онищенко
+T46	PERSON 1871 1879	Онищенко
+T58	PERSON 342 350	Онищенко
+R6	ALTERNATIVE_NAME Arg1:T7 Arg2:T13	
+R20	ALTERNATIVE_NAME Arg1:T12 Arg2:T14	
+R35	ALTERNATIVE_NAME Arg1:T26 Arg2:T27	
+R7	ALTERNATIVE_NAME Arg1:T4 Arg2:T58	

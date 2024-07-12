@@ -1,0 +1,7 @@
+T1	PERSON 0 5	Путин
+T4	PERSON 79 93	Владимир Путин
+T5	PERSON 96 110	Сергей Собянин
+T8	PERSON 128 142	Владимир Путин
+T22	PERSON 464 469	Путин
+T25	PERSON 490 505	Сергею Собянину
+R8	ALTERNATIVE_NAME Arg1:T1 Arg2:T4	

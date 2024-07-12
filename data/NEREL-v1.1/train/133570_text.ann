@@ -1,0 +1,6 @@
+T30	PERSON 842 856	Фрэнка Помероя
+T31	PERSON 858 871	Frank Pomeroy
+T43	PERSON 1533 1544	Кен Пэкстон
+T46	PERSON 1568 1579	Джон Корнин
+T39	PERSON 1388 1401	Дональд Трамп
+R4	ALTERNATIVE_NAME Arg1:T30 Arg2:T31	

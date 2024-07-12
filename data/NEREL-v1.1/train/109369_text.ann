@@ -1,0 +1,10 @@
+T1	PERSON 0 5	Путин
+T4	PERSON 28 37	Маслякова
+T7	PERSON 77 91	Владимир Путин
+T8	PERSON 93 107	Сергей Собянин
+T9	PERSON 110 128	Александр Масляков
+T12	PERSON 146 160	Владимир Путин
+T14	PERSON 202 222	Александра Маслякова
+R10	ALTERNATIVE_NAME Arg1:T1 Arg2:T12	
+R27	ALTERNATIVE_NAME Arg1:T1 Arg2:T7	
+R28	ALTERNATIVE_NAME Arg1:T4 Arg2:T9	

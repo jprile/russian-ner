@@ -1,0 +1,17 @@
+T11	PERSON 214 228	Руслан Владыко
+T12	PERSON 231 234	Пан
+T27	PERSON 901 908	Владыко
+T31	PERSON 1068 1078	Ильи Ильфа
+T32	PERSON 1081 1096	Евгения Петрова
+T35	PERSON 1192 1206	Сергей Михалок
+T37	PERSON 1240 1254	Руслан Владыко
+T40	PERSON 1283 1302	Павлом Булатниковым
+T42	PERSON 1318 1340	Александром Сторожуком
+T46	PERSON 70 84	Руслан Владыко
+T47	PERSON 85 99	Руслан Владыко
+T50	PERSON 318 325	Владыко
+T53	PERSON 531 538	Владыко
+T57	PERSON 686 704	Николая Чудотворца
+R6	ALTERNATIVE_NAME Arg1:T11 Arg2:T12	
+T9	PERSON 361 368	Солтыса
+R48	ALTERNATIVE_NAME Arg1:T11 Arg2:T50	

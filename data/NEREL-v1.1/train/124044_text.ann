@@ -1,0 +1,4 @@
+T1	PERSON 0 12	Махмуд Аббас
+T3	PERSON 131 143	Махмуд Аббас
+T6	PERSON 321 326	Аббас
+R2	ALTERNATIVE_NAME Arg1:T3 Arg2:T6	

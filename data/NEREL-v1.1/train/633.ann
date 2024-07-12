@@ -1,0 +1,12 @@
+T9	PERSON 183 197	Андрей Могучий
+T15	PERSON 388 397	А.Могучий
+T17	PERSON 441 455	Темура Чхеидзе
+T22	PERSON 680 689	Т.Чхеидзе
+T25	PERSON 794 810	Олег Басилашвили
+T28	PERSON 879 888	Т.Чхеидзе
+T36	PERSON 1366 1375	Т.Чхеидзе
+T38	PERSON 1401 1410	А.Могучий
+T3	PERSON 135 147	Товстоногова
+T74	PERSON 520 540	Владимира Мединского
+R7	ALTERNATIVE_NAME Arg1:T9 Arg2:T15	
+R37	ALTERNATIVE_NAME Arg1:T17 Arg2:T22	

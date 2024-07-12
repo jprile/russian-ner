@@ -1,0 +1,17 @@
+T1	PERSON 0 8	Янукович
+T4	PERSON 63 78	Виктор Янукович
+T8	PERSON 162 179	Григория Педченко
+T10	PERSON 231 239	Педченко
+T14	PERSON 368 380	Михаил Ежель
+T15	PERSON 383 391	Педченко
+T28	PERSON 797 811	Виктора Ющенко
+T30	PERSON 839 856	Анатолий Гриценко
+T31	PERSON 961 969	Педченко
+T33	PERSON 1008 1025	Виктора Януковича
+T40	PERSON 1247 1264	Геннадий Воробьев
+T41	PERSON 1342 1357	Юлией Тимошенко
+T43	PERSON 1489 1499	Иван Свида
+T44	PERSON 1517 1532	Виктором Ющенко
+T55	PERSON 1429 1437	Педченко
+R30	ALTERNATIVE_NAME Arg1:T1 Arg2:T4	
+R35	ALTERNATIVE_NAME Arg1:T8 Arg2:T10	

@@ -1,0 +1,5 @@
+T3	PERSON 47 62	Карлес Пучдемон
+T8	PERSON 149 162	Мариано Рахой
+T9	PERSON 172 189	Карлеса Пучдемона
+T21	PERSON 791 796	Рахой
+R23	ALTERNATIVE_NAME Arg1:T8 Arg2:T21	

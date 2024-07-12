@@ -1,0 +1,8 @@
+T1	PERSON 9 23	В.Жириновского
+T17	PERSON 855 877	Владимира Жириновского
+T19	PERSON 983 992	И.Лебедев
+T21	PERSON 91 99	Дорохова
+T28	PERSON 878 891	Игорь Лебедев
+T18	PERSON 5 23	Сын В.Жириновского
+R9	ALTERNATIVE_NAME Arg1:T28 Arg2:T19	
+R17	ALTERNATIVE_NAME Arg1:T28 Arg2:T18	

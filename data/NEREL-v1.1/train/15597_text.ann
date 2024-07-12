@@ -1,0 +1,17 @@
+T1	PERSON 0 10	Мел Гибсон
+T2	PERSON 13 30	Оксана Григорьева
+T3	PERSON 87 97	Мел Гибсон
+T5	PERSON 144 163	Оксаной Григорьевой
+T10	PERSON 471 481	Григорьева
+T11	PERSON 493 500	Гибсону
+T15	PERSON 797 805	Гибсоном
+T16	PERSON 808 819	Григорьевой
+T20	PERSON 978 992	Стивен Колодни
+T26	PERSON 1199 1209	Григорьева
+T27	PERSON 1219 1226	Гибсона
+T30	PERSON 578 585	Гибсона
+T31	PERSON 709 720	Григорьевой
+T32	PERSON 970 977	Гибсона
+T35	PERSON 1417 1423	Гибсон
+R6	ALTERNATIVE_NAME Arg1:T5 Arg2:T10	
+R7	ALTERNATIVE_NAME Arg1:T3 Arg2:T11	

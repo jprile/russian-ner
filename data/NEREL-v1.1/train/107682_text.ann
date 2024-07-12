@@ -1,0 +1,10 @@
+T1	PERSON 0 12	Елизавета II
+T6	PERSON 93 105	Елизавета II
+T13	PERSON 288 308	Пхумипона Адульядета
+T16	PERSON 382 394	Елизавета II
+T19	PERSON 518 526	Виктории
+T25	PERSON 630 656	Елизавета Александра Мария
+T34	PERSON 837 845	Георг VI
+T2	PERSON 56 68	Елизавета II
+T20	PERSON 724 732	Йоркских
+R26	ALTERNATIVE_NAME Arg1:T16 Arg2:T25	

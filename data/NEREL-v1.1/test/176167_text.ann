@@ -1,0 +1,10 @@
+T1	PERSON 6 19	Виктории Бони
+T5	PERSON 90 103	Виктория Боня
+T10	PERSON 184 196	Рэя Самедова
+T16	PERSON 365 378	Дана Борисова
+T17	PERSON 467 474	Самедов
+T23	PERSON 702 713	Рэй Самедов
+T25	PERSON 798 811	Виктория Боня
+T26	PERSON 814 827	Дана Борисова
+R7	ALTERNATIVE_NAME Arg1:T10 Arg2:T17	
+R16	ALTERNATIVE_NAME Arg1:T17 Arg2:T23	

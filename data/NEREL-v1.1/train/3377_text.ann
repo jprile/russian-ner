@@ -1,0 +1,7 @@
+T4	PERSON 119 147	Хайдемария Стефанишин-Пайпер
+T5	PERSON 172 189	Стефанишин-Пайпер
+T15	PERSON 454 471	Стефанишин-Пайпер
+T17	PERSON 569 575	Пайпер
+T20	PERSON 766 772	Пайпер
+R2	ALTERNATIVE_NAME Arg1:T4 Arg2:T5	
+R12	ALTERNATIVE_NAME Arg1:T15 Arg2:T17	

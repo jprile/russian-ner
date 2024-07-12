@@ -1,0 +1,7 @@
+T1	PERSON 0 5	Путин
+T4	PERSON 47 61	Владимир Путин
+T5	PERSON 64 78	Виктор Золотов
+T10	PERSON 233 247	Владимир Путин
+T20	PERSON 809 835	Сергей Анатольевич Лебедев
+T21	PERSON 836 841	Путин
+R1	ALTERNATIVE_NAME Arg1:T1 Arg2:T4	

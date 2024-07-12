@@ -1,0 +1,12 @@
+T1	PERSON 2 17	Роберта Де Ниро
+T4	PERSON 74 88	Роберт Де Ниро
+T5	PERSON 97 111	Грэйс Хайтауэр
+T6	PERSON 112 126	Роберт Де Ниро
+T10	PERSON 330 337	де Ниро
+T11	PERSON 376 390	Грэйс Хайтауэр
+T13	PERSON 428 441	Билли Кристал
+T15	PERSON 454 470	Дэвид О. Расселл
+T20	PERSON 605 612	Де Ниро
+T24	PERSON 759 766	Де Ниро
+T28	PERSON 874 881	Де Ниро
+R8	ALTERNATIVE_NAME Arg1:T6 Arg2:T10	

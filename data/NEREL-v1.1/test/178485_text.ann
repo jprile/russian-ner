@@ -1,0 +1,30 @@
+T1	PERSON 0 12	Политковский
+T2	PERSON 58 66	Листьева
+T3	PERSON 68 85	Владислав Листьев
+T8	PERSON 157 172	Дмитрий Захаров
+T15	PERSON 326 345	Владислава Листьева
+T17	PERSON 585 590	Владу
+T18	PERSON 766 773	Листьев
+T20	PERSON 907 914	Захаров
+T21	PERSON 936 955	Бориса Березовского
+T24	PERSON 1109 1131	Александр Политковский
+T30	PERSON 1358 1370	Березовского
+T31	PERSON 1427 1434	Листьев
+T33	PERSON 1658 1670	Березовского
+T35	PERSON 1759 1778	Владислава Листьева
+T38	PERSON 1836 1843	Листьев
+T42	PERSON 2051 2067	Константин Эрнст
+T43	PERSON 2091 2108	Евгению Левковичу
+T44	PERSON 2132 2149	Сергея Лисовского
+T47	PERSON 2249 2268	Владислава Листьева
+T50	PERSON 2447 2463	Сергей Лисовский
+T52	PERSON 2480 2493	Борис Зосимов
+T67	PERSON 1491 1499	Листьева
+T79	PERSON 1894 1902	Листьева
+T82	PERSON 2542 2550	Листьева
+R5	ALTERNATIVE_NAME Arg1:T15 Arg2:T17	
+R6	ALTERNATIVE_NAME Arg1:T17 Arg2:T18	
+R9	ALTERNATIVE_NAME Arg1:T2 Arg2:T3	
+R14	ALTERNATIVE_NAME Arg1:T8 Arg2:T20	
+R15	ALTERNATIVE_NAME Arg1:T21 Arg2:T30	
+R29	ABBREVIATION Arg1:T15 Arg2:T9	

@@ -1,0 +1,12 @@
+T1	PERSON 0 16	Александр Винник
+T7	PERSON 130 146	Александр Винник
+T13	PERSON 360 367	Винника
+T17	PERSON 521 527	Винник
+T19	PERSON 790 797	Винника
+T23	PERSON 954 970	Илиас Спирлиадис
+T32	PERSON 1343 1349	Винник
+T36	PERSON 1621 1628	Винника
+T45	PERSON 1969 1976	Винника
+T58	PERSON 1230 1237	Виннику
+T67	PERSON 1826 1842	Александр Винник
+R5	ALTERNATIVE_NAME Arg1:T7 Arg2:T13	

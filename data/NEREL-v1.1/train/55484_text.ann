@@ -1,0 +1,16 @@
+T1	PERSON 0 7	Собянин
+T4	PERSON 137 151	Сергей Собянин
+T7	PERSON 303 319	Сергеем Капковым
+T9	PERSON 360 378	Олегом Меньшиковым
+T10	PERSON 471 479	Собянина
+T13	PERSON 572 586	Олег Меньшиков
+T28	PERSON 59 74	Марии Ермоловой
+T30	PERSON 110 125	М. Н. Ермоловой
+T34	PERSON 240 255	М. Н. Ермоловой
+T24	PERSON 1234 1238	Адам
+T25	PERSON 1241 1244	Ева
+T45	PERSON 1249 1254	Ромео
+T46	PERSON 1257 1266	Джульетта
+R18	ALTERNATIVE_NAME Arg1:T1 Arg2:T4	
+R25	ALTERNATIVE_NAME Arg1:T4 Arg2:T10	
+T47	PERSON 1215 1230	Козьмы Пруткова

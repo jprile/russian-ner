@@ -1,0 +1,10 @@
+T3	PERSON 16 28	Егора Летова
+T13	PERSON 262 274	Егора Летова
+T16	PERSON 471 477	Летова
+T21	PERSON 760 765	Diego
+T24	PERSON 834 850	Heinrich Neumann
+T26	PERSON 861 868	S. Tony
+T29	PERSON 959 973	Приана Яцунами
+T41	PERSON 717 733	josef kshetunsky
+T47	PERSON 1279 1290	А. Абдулова
+R34	ALTERNATIVE_NAME Arg1:T13 Arg2:T16	

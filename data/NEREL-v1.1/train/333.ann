@@ -1,0 +1,10 @@
+T1	PERSON 0 8	Медведев
+T3	PERSON 55 71	Дмитрий Медведев
+T6	PERSON 183 196	Олега Иванова
+T8	PERSON 315 321	Иванов
+T10	PERSON 429 445	Николая Макарова
+T16	PERSON 794 800	Иванов
+T19	PERSON 1036 1043	Иванова
+T23	PERSON 1153 1167	Андрей Третьяк
+R12	ALTERNATIVE_NAME Arg1:T6 Arg2:T8	
+T51	PERSON 1265 1278	Сергей Скоков

@@ -1,0 +1,7 @@
+T6	PERSON 146 167	Тоомас Хендрик Ильвес
+T18	PERSON 449 456	Ильвеса
+T31	PERSON 1245 1266	Тоомас Хендрик Ильвес
+T41	PERSON 1467 1473	Ильвес
+T45	PERSON 1603 1621	Михаила Саакашвили
+R8	ALTERNATIVE_NAME Arg1:T6 Arg2:T18	
+R20	ALTERNATIVE_NAME Arg1:T31 Arg2:T41	

@@ -1,0 +1,10 @@
+T2	PERSON 58 73	Михаил Гуцериев
+T3	PERSON 101 116	Михаил Гуцериев
+T4	PERSON 138 143	Саиду
+T7	PERSON 347 362	Дженнифер Лопес
+T8	PERSON 364 379	Энрике Иглесиас
+T9	PERSON 382 387	Стинг
+T10	PERSON 398 412	Хадижа Ужахова
+T12	PERSON 490 499	Elie Saab
+T20	PERSON 1070 1079	Гуцериева
+R15	ALTERNATIVE_NAME Arg1:T3 Arg2:T20	

@@ -1,0 +1,25 @@
+T4	PERSON 52 64	Пэрис Хилтон
+T5	PERSON 83 94	Эзра Уильям
+T12	PERSON 342 353	Эзра Уильям
+T13	PERSON 355 370	Ezra J. William
+T17	PERSON 496 502	Седрик
+T18	PERSON 505 520	Очи Вонгерихтен
+T21	PERSON 559 582	Жана-Жоржа Вонгерихтена
+T22	PERSON 584 609	Jean-Georges Vongerichten
+T27	PERSON 748 755	Уильяма
+T30	PERSON 867 873	Уильям
+T37	PERSON 989 996	Уильяма
+T42	PERSON 1347 1360	Тиффани Трамп
+T45	PERSON 1417 1429	Марлы Мейплз
+T47	PERSON 1549 1561	Андреа Пежич
+T48	PERSON 1570 1582	Пэрис Хилтон
+T49	PERSON 1585 1606	Никки Хилтон-Ротшильд
+T50	PERSON 1615 1626	Хилари Рода
+T52	PERSON 1636 1647	Эшли Бенсон
+T54	PERSON 1689 1706	Саманта Перельман
+T55	PERSON 1715 1730	Виктория Бекхэм
+T63	PERSON 2175 2186	Си Цзиньпин
+T70	PERSON 1392 1398	Трампа
+R10	ALTERNATIVE_NAME Arg1:T12 Arg2:T13	
+R25	ALTERNATIVE_NAME Arg1:T21 Arg2:T22	
+R45	ALTERNATIVE_NAME Arg1:T12 Arg2:T27	

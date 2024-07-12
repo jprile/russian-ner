@@ -1,0 +1,4 @@
+T1	PERSON 0 9	Лукашенко
+T7	PERSON 373 393	Александра Лукашенко
+T16	PERSON 805 824	Дмитрием Медведевым
+R4	ALTERNATIVE_NAME Arg1:T1 Arg2:T7	

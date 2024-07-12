@@ -1,0 +1,9 @@
+T3	PERSON 61 74	Джефф Уильямс
+T5	PERSON 99 112	Джефф Уильямс
+T16	PERSON 480 493	Джефф Уильямс
+T18	PERSON 518 533	Алексей Овчинин
+T19	PERSON 536 550	Олег Скрипочка
+T20	PERSON 565 572	Уильямс
+T22	PERSON 689 696	Уильямс
+T28	PERSON 1006 1022	Геннадий Падалка
+R8	ALTERNATIVE_NAME Arg1:T16 Arg2:T20	

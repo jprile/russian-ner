@@ -1,0 +1,15 @@
+T1	PERSON 0 11	Алан Рикман
+T5	PERSON 82 95	Алана Рикмана
+T8	PERSON 170 176	Рикман
+T11	PERSON 287 300	Ганса Грубера
+T17	PERSON 481 498	Джульет Стивенсон
+T18	PERSON 563 578	Северуса Снейпа
+T20	PERSON 635 648	Джоан Роулинг
+T21	PERSON 650 657	Роулинг
+T22	PERSON 743 756	Алана Рикмана
+T23	PERSON 814 825	Алан Рикман
+T25	PERSON 899 911	Рэйчел Корри
+T32	PERSON 399 409	Робин Гуда
+R26	ALTERNATIVE_NAME Arg1:T5 Arg2:T8	
+R37	ALTERNATIVE_NAME Arg1:T20 Arg2:T21	
+R38	ALTERNATIVE_NAME Arg1:T8 Arg2:T22	

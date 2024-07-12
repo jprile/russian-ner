@@ -1,0 +1,13 @@
+T1	PERSON 0 6	Аваков
+T6	PERSON 101 113	Арсен Аваков
+T10	PERSON 202 219	Владимир Гройсман
+T13	PERSON 319 333	Арсений Яценюк
+T22	PERSON 780 787	Яценюка
+T24	PERSON 828 846	Александр Турчинов
+T31	PERSON 1045 1072	Владимир Борисович Гройсман
+T32	PERSON 1074 1102	Володимир Борисович Гройсман
+T56	PERSON 47 64	Владимир Гройсман
+T57	PERSON 65 82	Владимир Гройсман
+R13	ALTERNATIVE_NAME Arg1:T31 Arg2:T32	
+R24	ALTERNATIVE_NAME Arg1:T1 Arg2:T6	
+R34	ALTERNATIVE_NAME Arg1:T13 Arg2:T22	

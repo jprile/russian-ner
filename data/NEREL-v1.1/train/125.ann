@@ -1,0 +1,9 @@
+T4	PERSON 93 108	Сергея Собянина
+T7	PERSON 198 215	Владимир Малышков
+T10	PERSON 322 330	Малышков
+T14	PERSON 437 446	Малышкова
+T15	PERSON 454 466	Михаил Орлов
+T20	PERSON 742 750	Малышков
+T22	PERSON 799 811	Юрия Лужкова
+R10	ALTERNATIVE_NAME Arg1:T7 Arg2:T10	
+R36	ALTERNATIVE_NAME Arg1:T10 Arg2:T14	

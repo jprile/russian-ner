@@ -1,0 +1,10 @@
+T3	PERSON 25 40	Надежда Иванова
+T14	PERSON 321 336	Надежда Иванова
+T17	PERSON 427 434	Иванова
+T26	PERSON 651 658	Иванова
+T34	PERSON 921 940	Эльвиры Набиуллиной
+T38	PERSON 1102 1116	Ксении Юдаевой
+T40	PERSON 1193 1208	Алексей Улюкаев
+T59	PERSON 67 74	Иванова
+R25	ALTERNATIVE_NAME Arg1:T3 Arg2:T59	
+R33	ALTERNATIVE_NAME Arg1:T14 Arg2:T17	

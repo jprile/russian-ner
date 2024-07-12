@@ -1,0 +1,13 @@
+T1	PERSON 0 12	Эштон Картер
+T3	PERSON 60 72	Эштон Картер
+T5	PERSON 94 106	Эштон Картер
+T13	PERSON 290 302	Чака Хейгела
+T15	PERSON 394 400	Картер
+T18	PERSON 466 476	Джо Байден
+T19	PERSON 553 560	Картера
+T28	PERSON 1063 1078	Мартином Демпси
+T6	PERSON 173 179	Картер
+T33	PERSON 249 254	Обамы
+T23	PERSON 881 887	Картер
+T40	PERSON 963 975	Бобом Уорком
+R30	ALTERNATIVE_NAME Arg1:T5 Arg2:T6	

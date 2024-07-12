@@ -1,0 +1,11 @@
+T3	PERSON 66 85	Анибал Каваку Силва
+T7	PERSON 165 184	Педру Пассуш-Коэлью
+T8	PERSON 186 205	Pedro Passos Coelho
+T13	PERSON 412 426	Жозе Сократеша
+T21	PERSON 804 817	Пассуш-Коэлью
+T26	PERSON 1030 1043	Пассуш-Коэлью
+T36	PERSON 247 260	Пассуш-Коэлью
+T41	PERSON 666 674	Сократеш
+R4	ALTERNATIVE_NAME Arg1:T7 Arg2:T8	
+R9	ALTERNATIVE_NAME Arg1:T7 Arg2:T36	
+R19	ALTERNATIVE_NAME Arg1:T13 Arg2:T41	

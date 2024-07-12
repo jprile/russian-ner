@@ -1,4 +1,4 @@
-### So far is just a little demo... ###
+### This is a demo ###
 import numpy as np
 import spacy
 import re

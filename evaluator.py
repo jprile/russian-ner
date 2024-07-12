@@ -2,12 +2,10 @@
 import re
 import numpy as np
 
-### All Simon's work, just moving it into this class. ###
-
 class Evaluator():
 
     def __init__ (self):
-        #Calculate accuracy for 
+        # Calculate accuracy 
         self.claim_2_total_correct = 0
         self.claim_2_total_possible = 0
         self.claim_2_total_retrieved = 0
@@ -15,12 +13,12 @@ class Evaluator():
         self.claim_2_total_prec = []
         self.claim_2_total_fscore = []
 
-    # If we ever need to get the stats per iteration and used them in main, we can call this.
+    # Use to get the stats per iteration and used them in main
     def claim_2_calc_stats(self, ann_people, err_people):
         all_retrieved = len(err_people)
         correct_ann = 0
         for i in range(len(ann_people)):
-            #Convert annotation into same format as model output
+            # Convert annotation into same format as model output
             ann_person = str(re.sub('[\']','',str(ann_people[i])))
             if ann_person in err_people:
                 err_people.remove(ann_person)
@@ -34,7 +32,7 @@ class Evaluator():
         # print("Correct Annotation: " + str(correct_ann), "Precision: " + str(precision), "Recall: " + str(recall))
         return precision,recall, fscore, correct_ann, len(ann_people), all_retrieved
 
-    # This will automatically update the totals when called each iteration from main.
+    # This will automatically update the totals when called each iteration from main
     def claim_2_metric(self, ann_people, err_people):
         precision, recall, fscore, correct_ann, possible, retrieved = self.claim_2_calc_stats(ann_people, err_people)
         self.claim_2_total_rec.append(recall)

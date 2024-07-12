@@ -54,8 +54,7 @@ for train_data_sample in tqdm(train_data, desc="Analyzing"):
 
                 ### Alternate name identification ###
 
-                # We will need to modify the name somehow here
-
+                # TODO: modify name
 
                 people.append(name_list)
                 err_people.append(str(name_list))
